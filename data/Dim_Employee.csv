@@ -1,0 +1,172 @@
+Employee Key,Status,Employee Number,Employee Name,Department
+RAM001,Active,1,Ramanjaneyulu  GV,Research & Development - CSA
+PRA002,Active,9,Prasanna TP,Marketing - CSA
+DAA003,Active,26,Daas Paradesi,Sahaja - CSA
+SRI004,Active,80,Srinivas G,Sahaja - CSA
+MAH005,Left,21,Mahender A,Finance & Legal - CSA
+GSV006,Active,19,G S V Vinyasa,Institution Building - CSA
+GOW007,Active,167,Gowri Sankara  Rao,knowledge Management and Enterprise - CSA
+MUR008,Active,169,Murugesan  Kandasamy,Marketing - CSA
+UMA009,Active,174,Umamahesh,Technical - CSA
+VID010,Active,190,Vidya Sagar CH,PRI  - CSA
+CHA011,Active,6,Chandrakala P,Quality Management & PGS Certification - CSA
+TSR012,Left,131,T Srikanth,Quality Management & PGS Certification - CSA
+CHA013,Active,163,Chandra sekhar M,Quality Management & PGS Certification - CSA
+PRA014,Active,164,Prakash Rao T,Quality Management & PGS Certification - CSA
+SRI015,Active,165,Srinivas Rao R,Quality Management & PGS Certification - CSA
+LAK016,Active,14,Lakshmi K,Quality Management & PGS Certification - CSA
+JYO017,Active,178,Jyothi L,Quality Management & PGS Certification - CSA
+NAR018,Active,180,Narsimha L,Quality Management & PGS Certification - CSA
+JES019,Active,182,Jessica D,Quality Management & PGS Certification - CSA
+AJA020,Active,183,Ajay Kiran,Quality Management & PGS Certification - CSA
+CHE021,Active,184,Chenchu  Krishna  Dasari ,Quality Management & PGS Certification - CSA
+SIN022,Active,193,Sindhura M,Production - CSA
+ADR023,Active,195,Adrija  Chaudhuri,Kisan Mitra - CSA
+RAJ024,Active,2,Rajashekar G,Technical - CSA
+SAN025,Left,136,Santhosh Kumar,Marketing - CSA
+VIJ026,Left,92,Vijaya Namburu,Marketing - CSA
+UDA027,Active,138,Uday Kumar Nagubandi,pro
+ALE028,Left,146,Aleesha Sooraj,IRRI - CSA
+MAM029,Active,136,Mamatha Goundla,Research & Development - CSA
+RAM030,Active,148,Rama Bayapureddy N,IRRI - CSA
+SHI031,Active,147,Shiva Sai Krishna Bejjanki,Diageo  - CSA
+DUM032,Active,157,Dumpala Ravi Kumar,Diageo  - CSA
+THA033,Active,158,Thalari Sayanna,Diageo  - CSA
+SAI034,Active,191,Sai Teja Soma,Research & Development - CSA
+RAV035,Left,99,Ravi Varma,Research & Development - CSA
+ANU036,Active,151,Anusha B,"HR, Admin & MIS - CSA"
+JUN037,Active,160,Junuthula Shirisha,Research & Development - CSA
+SAM038,Inactive,185,Samala  Tharakanath Reddy,Research & Development - CSA
+THA039,Active,190,Tharakanath Reddy Samala,Department not mapped
+RAM040,Active,168,Ramprasad,Production - CSA
+KAM041,Active,189,Kamal Nadh Natta ,LIC HFL HRIDAY - CSA
+PRA042,Active,191,Pratap N,Department not mapped
+MAD043,Active,194,Madhu Lakshman Rao,Department not mapped
+UPE044,Active,68,Upendra I,Agri Expert - CSA
+YAD045,Active,8,Yadava Reddy,Production - CSA
+CHR046,Active,123,Ch Rajesh,Agri Expert - CSA
+THI047,Active,143,Thirupathi Reddy,Finance & Legal - CSA
+TSA048,Active,121,T Satyapal,Marketing - CSA
+THO049,Active,122,THODETI SRISHYLAM,Marketing - CSA
+RAJ050,Left,135,Raja Kumar B,Marketing - CSA
+RAM051,Active,91,Ramesh Dodde,Institution Building - CSA
+KAM052,Active,159,Kamidi Surender Reddy,Marketing - CSA
+YOG053,Left,161,Yogeshwar Ashannaagari,Agri Expert - CSA
+ADI054,Left,170,Aditya P,Agri Expert - CSA
+RAM055,Active,172,Ramesh P,Finance & Legal - CSA
+SIK056,Active,177,Sikanth Billakanti,Agri Expert - CSA
+DUL057,Active,7,Dullabh Pattnaik,Finance & Legal - CSA
+TEJ058,Left,137,Tejaswi Vemuri,"HR, Admin & MIS - CSA"
+ALE059,Active,114,Aleti  Srikanth,Finance & Legal - CSA
+SRI060,Active,109,Sridhar Vemula,Finance & Legal - CSA
+SUR061,Active,17,Surender S,Finance & Legal - CSA
+CHA062,Active,3,Chandra Sekhar G,Technical - CSA
+MAL063,Left,108,Malkappa Zulpi,Agri Expert - CSA
+RAV064,Left,104,Raveena Ballem,Research & Development - CSA
+VIJ065,Left,107,Vijay Sandeep Jakkula,Agri Expert - CSA
+LAK066,Active,93,Lakshmi Bhairava Kumar Manchunuru,Production - CSA
+ADI067,Active,60,Adinarayana K,Production - CSA
+ANI068,Left,83,Anil Kumar,Production - CSA
+PAV069,Left,82,Pavan Kumar  Yaparala,Marketing - CSA
+SAN070,Left,140,S Anitha,Institution Building - CSA
+PSI071,Active,129,P Sivarjuna Reddy,Institution Building - CSA
+RAV072,Active,134,Ravi Teja Polu,Technical - CSA
+GIR073,Active,192,Giridhar R,Department not mapped
+ANU074,Active,196,Anusha  K,Department not mapped
+JAN075,Active,57,Janardhan S,Technical - CSA
+PRA076,Left,139,Prasanghi Y,Agri Expert - CSA
+ALR077,Active,111,AL Ramana,Institution Building - CSA
+TOB078,Active,119,T Obulesu,Department not mapped
+RAV079,Active,126,Ravi Teja Amudala,Institution Building - CSA
+BES080,Active,114,Besta Udaya Kumar,Quality Management & PGS Certification - CSA
+VAN081,Active,115,Vanamoju Anusha,Quality Management & PGS Certification - CSA
+KON082,Active,112,Kondakala Shyamala,Department not mapped
+PGA083,Left,113,P Gangulappa,Department not mapped
+BHA084,Active,102,Bhaskar M.D,Kisan Mitra - CSA
+NAG085,Active,58,Nagavenamma S,Production - CSA
+MAN086,Left,65,Manogna Naik B,Sustain plus Project  - CSA
+RAV087,Left,56,Raveendraiah P,Production - CSA
+SVA088,Active,72,SV Ashok Kumar,Quality Management & PGS Certification - CSA
+VEN089,Active,62,Venkatarao Pasala,Production - CSA
+SIV090,Left,59,Siva Sankaraiah,Production - CSA
+SAI091,Active,85,Sai Prasad Duvuru,"HR, Admin & MIS - CSA"
+KRI092,Left,66,Krishna Allu,Sustain plus Project  - CSA
+SRE093,Left,67,Sreekanth M,Sustain plus Project  - CSA
+MAH094,Active,71,Mahesh Babu,Department not mapped
+JAY095,Active,101,Jayanna J,Kisan Mitra - CSA
+MUN096,Active,61,Muni Lakshmi,Production - CSA
+SUN097,Active,154,Sunitha  B,IRRI - CSA
+SWA098,Active,155,Swamy SVB,Department not mapped
+GAN099,Active,162,Ganisetty Siva,Finance & Legal - CSA
+NAR100,Active,33,Naresh Chary,Kisan Mitra - CSA
+RAM101,Active,11,RAMBABU,Institution Building - CSA
+SRI102,Active,106,Srikanth A,"HR, Admin & MIS - CSA"
+ABH103,Left,90,Abhilash P,Institution Building - CSA
+RAJ104,Left,79,Raj Babu D,Institution Building - CSA
+SHI105,Active,76,Shiva Shanker Ankam,Institution Building - CSA
+AKH106,Left,103,Akhil Reddy Nandyala,Research & Development - CSA
+VIJ107,Left,145,Vijaya Prasanti Sowrotu,Agri Expert - CSA
+GAN108,Active,144,Ganesh  Venkata Sai,Finance & Legal - CSA
+SHI109,Active,141,Shiva Krishna V,Agri Expert - CSA
+BHA110,Active,132,Bharath Chinnam,Department not mapped
+VEN111,Active,110,Venu Uradi,"HR, Admin & MIS - CSA"
+KVE112,Active,125,K Venkataiah,Institution Building - CSA
+VOR113,Active,130,VORUGANTI RAMMURTHY,Institution Building - CSA
+SRE114,Active,117,Sreenu Lachanolla,Marketing - CSA
+MAN115,Active,70,Manoj Rameshrao Sayre,Operations - CSA
+BHA116,Active,13,Bhaskar G,"HR, Admin & MIS - CSA"
+RAM117,Active,50,Ramesh K,Institution Building - CSA
+RAM118,Active,133,Ramesha Babu L,Marketing - CSA
+VEE119,Active,149,Veerababu K,Agri Expert - CSA
+MAD120,Active,150,MADHURI MEENAKSHI POTHURU,Agri Expert - CSA
+DUD121,Active,153,D Uday kumar yadav,Agri Expert - CSA
+PAV122,Active,173,Pavan D,Marketing - CSA
+KHA123,Left,73,Khadar Baba,Department not mapped
+NPA124,Left,116,N Pavan Kumar,Marketing - CSA
+KLI125,Left,118,K Lingaswamy,Institution Building - CSA
+KON126,Left,119,Konjeti Srihari,Department not mapped
+GAN127,Left,124,Gandla Ramulu,Agri Expert - CSA
+MAL128,Left,127,Malla Sai Rohith,Department not mapped
+SHA129,Left,128,Shaikpally Naresh,Agri Expert - CSA
+KRI130,Left,105,Krishna Ambatipudi,Marketing - CSA
+KAR131,Left,18,Kartheek S,IT - CSA
+MOS132,Left,84,Moses Kovela,Marketing - CSA
+LIK133,Left,89,Likhita Sriram,Technical - CSA
+SIV134,Left,94,Siva Kumar Polepalli,Research & Development - CSA
+TEJ135,Left,95,Tejaswi Khadke,Research & Development - CSA
+RAJ136,Left,10,Rajesh B,Marketing - CSA
+VAN137,Left,31,Vandana C,Kisan Mitra - CSA
+SOU138,Left,15,Soundarya B,Research & Development - CSA
+ROS139,Left,77,Rosemary Arli,Research & Development - CSA
+RAV140,Left,32,Ravikanth K,Kisan Mitra - CSA
+ANU141,Left,30,Anusha SRD,Kisan Mitra - CSA
+SUB142,Left,34,Subbarao MV,Kisan Mitra - CSA
+SRE143,Left,36,Sree Harsha Tanneru,Kisan Mitra - CSA
+HOM144,Left,81,Homendra Venkata S,Production - CSA
+PAD145,Left,12,Padma Vangapally,Sahaja - CSA
+BHA146,Left,29,Bhargavi Gupta,Kisan Mitra - CSA
+PAD147,Left,78,Padma G,Institution Building - CSA
+NAM148,Left,49,Namrata Sharma,Research & Development - CSA
+RAV149,Left,51,Ravikumar Peyyala,Institution Building - CSA
+RAG150,Left,52,Raghavendra Goud,"HR, Admin & MIS - CSA"
+KRI151,Left,55,Krishnamurthi V,Production - CSA
+NAV152,Left,64,Naveen Ramisetty,Kisan Mitra - CSA
+DHA153,Left,69,Dharmender Sonnaila,Kisan Mitra - CSA
+NAY154,Left,75,Nayeemiya S,Department not mapped
+TAN155,Left,74,Tanmay Telang,Marketing - CSA
+SUN156,Left,75,Sunil Reddy Kommera,Sales - CSA
+THI157,Left,88,Thilak Durga Rudrakshi,Department not mapped
+GUR158,Left,107,Guruva Reddy D,Technical - CSA
+BOG159,Active,152,Boggavarapu  Lavakusha,Department not mapped
+SAI160,Active,175,Sai Sree,Department not mapped
+UDA161,Active,188,Uday Kiran,Research & Development - CSA
+VEN162,Active,156,Venkatesh Kodam,Diageo  - CSA
+VIN163,Active,166,Vinod Kumar J,Quality Management & PGS Certification - CSA
+RAK164,Active,171,Rakesh Sathikala,Research & Development - CSA
+GAN165,Active,179,Ganga Bhavani,Quality Management & PGS Certification - CSA
+MAN166,Active,181,Manohar T,Quality Management & PGS Certification - CSA
+HAN167,Active,182,Hanumaiah K,Quality Management & PGS Certification - CSA
+ROH168,Left,187,Rohit Kumar Vootukuri,Sahaja - CSA
+CHA169,Active,190,Chandrashekar G,Agri Expert - CSA
+ABD170,Left,53,Abdulla D,Institution Building - CSA
+BHA171,Left,142,Bhanu Rajesh K,Agri Expert - CSA

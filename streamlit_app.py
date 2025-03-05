@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import datetime
 import unicodedata
 
-
 # Set page configuration
 st.set_page_config(layout="wide", page_title="CSA Projects and Tasks Dashboard")
 
@@ -35,6 +34,8 @@ tasks_df = pd.read_csv(
     na_values=["n.a"],
 )
 
+tasks_df["Project Key"] = tasks_df["Project Key"].replace(r"^\s*$", pd.NA, regex=True)
+
 
 # --------------------------
 # Normalize the Project ID column
@@ -60,7 +61,6 @@ tasks_df["Task Description"] = tasks_df["Task Description"].apply(clean_html)
 # --------------------------
 # Standardize Task Subject for Filtering
 # --------------------------
-# Create a cleaned version of Task Subject: strip whitespace and convert to capital case.
 tasks_df["Task Subject Clean"] = tasks_df["Task Subject"].astype(str).str.strip()
 
 
@@ -152,11 +152,9 @@ else:
 if global_task_filter != "All":
     # Extract and normalize the selected task ID
     selected_task_id = global_task_filter.split(" | ")[0].strip()
-    # Create a normalized Task ID column for comparison in tasks_df
     tasks_df["Task ID Normalized"] = (
         tasks_df["Task ID"].astype(str).str.strip().str.lower()
     )
-    # Compare using lowercase version of selected_task_id
     project_keys_from_task = (
         tasks_df.loc[
             tasks_df["Task ID Normalized"] == selected_task_id.lower(), "Project Key"
@@ -179,7 +177,9 @@ elif global_task_filter != "All":
 else:
     global_project_keys = projects_df["Project Key"].dropna().unique().tolist()
 
-st.sidebar.write("Global Project Key(s):", global_project_keys)
+# Clean the global_project_keys to remove any unwanted index prefixes (e.g., "0:")
+global_project_keys = [key.split(":", 1)[-1].strip() for key in global_project_keys]
+st.sidebar.write("Cleaned Global Project Key(s):", global_project_keys)
 
 # Projects view additional filters
 project_status_options = projects_df["Status"].dropna().unique().tolist()
@@ -220,7 +220,6 @@ else:
 filtered_projects = projects_df[projects_df["Project Key"].isin(global_project_keys)]
 filtered_tasks = tasks_df[tasks_df["Project Key"].isin(global_project_keys)]
 
-# Now apply your additional filters to filtered_projects (status, priority, date range, etc.)
 if selected_status:
     filtered_projects = filtered_projects[
         filtered_projects["Status"].isin(selected_status)
@@ -273,7 +272,11 @@ if global_task_filter != "All":
     )
     filtered_tasks = filtered_tasks[
         (filtered_tasks["Task ID Normalized"] == selected_task_id)
-        | (filtered_tasks["Parent Task Normalized"] == selected_task_id)
+        | (
+            filtered_tasks["Parent Task Normalized"].str.contains(
+                selected_task_id, na=False
+            )
+        )
     ]
     st.sidebar.write("Filtered Tasks count:", len(filtered_tasks))
 
@@ -290,18 +293,15 @@ left_col, right_col = st.columns(2)
 with left_col:
     if show_projects:
         st.header("Projects")
-
         # Compute counts using the entire projects_df (not filtered_projects)
         total_projects = projects_df.shape[0]
         open_projects_count = projects_df[
             projects_df["Status"].str.lower() == "open"
         ].shape[0]
-
         # Create two columns for the KPI cards
         kpi_col1, kpi_col2 = st.columns(2)
         kpi_col1.metric("Open Projects", open_projects_count)
         kpi_col2.metric("Total Projects", total_projects)
-
         if filtered_projects.empty:
             st.write("No projects found with the selected filters.")
         else:
@@ -338,8 +338,11 @@ with right_col:
                 return str(s).strip().lower() if pd.notna(s) else ""
 
             tasks_with_key = filtered_tasks[filtered_tasks["Project Key"].notna()]
-            standalone_tasks = filtered_tasks[filtered_tasks["Project Key"].isna()]
-
+            standalone_tasks = filtered_tasks[
+                filtered_tasks["Project Key"].isna()
+                | (filtered_tasks["Project Key"].str.strip() == "")
+            ]
+            st.write("Number of standalone tasks:", len(standalone_tasks))
             root_tasks = tasks_with_key[
                 tasks_with_key["Parent Task"].apply(
                     lambda x: normalize(x) in ["", "none", "-"]
@@ -350,10 +353,8 @@ with right_col:
                     lambda x: normalize(x) not in ["", "none", "-"]
                 )
             ]
-
             st.write("Number of Parent Tasks:", len(root_tasks))
             st.write("Number of Sub-Tasks:", len(child_tasks))
-
             for idx, root in root_tasks.iterrows():
                 normalized_root_id = normalize(root["Task ID"])
                 with st.expander(f"{root['Task Filter Label']}"):
@@ -392,7 +393,6 @@ with right_col:
                     st.markdown(f"**Accrued Budget:** {root.get('Accrued Budget', '')}")
                     st.markdown(f"**Expected Cost:** {root.get('Expected Cost', '')}")
                     st.markdown(f"**Actual Cost:** {root.get('Actual Cost', '')}")
-
                     subtasks = child_tasks[
                         child_tasks["Parent Task"].apply(lambda x: normalize(x))
                         == normalized_root_id
@@ -408,7 +408,6 @@ with right_col:
                                 f"  **Status:** {child.get('Status', '')}  \n"
                                 f"  **Approved Budget:** {child.get('Approved Budget', '')}"
                             )
-
             if not standalone_tasks.empty:
                 st.markdown("### Standalone Tasks (No Project Mapped)")
                 for idx, task in standalone_tasks.iterrows():

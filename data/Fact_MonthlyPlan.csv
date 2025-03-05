@@ -1,0 +1,668 @@
+Monthly Plan ID,Date,Plan for Month,Employee Key,Employee,Year,Created On,Created By
+"""MP-2023-000041""",01-11-2023,November,ABD170,Abdulla D,2023,10:11.2,abdulla@csa-india.org
+"""MP-2023-000070""",30-11-2023,November,ADI067,Adinarayana K,2023,20:49.5,adinarayana@csa-india.org
+"""MP-2024-000401""",04-10-2024,October,ADI067,Adinarayana K,2023,45:16.9,adinarayana@csa-india.org
+"""MP-2024-000403""",04-10-2024,October,ADI067,Adinarayana K,2023,14:06.5,adinarayana@csa-india.org
+"""MP-2023-000078""",06-11-2023,November,ALR077,AL Ramana,2023,44:41.4,ramana@csa-india.org
+"""MP-2023-000152""",04-12-2023,December,ALR077,AL Ramana,2023,38:47.1,ramana@csa-india.org
+"""MP-2023-000178""",29-12-2023,January,ALR077,AL Ramana,2024,33:37.8,ramana@csa-india.org
+"""MP-2024-000052""",30-01-2024,February,ALR077,AL Ramana,2024,21:32.2,ramana@csa-india.org
+"""MP-2024-000124""",26-02-2024,March,ALR077,AL Ramana,2024,35:04.6,ramana@csa-india.org
+"""MP-2024-000188""",01-05-2024,May,ALR077,AL Ramana,2024,17:11.6,ramana@csa-india.org
+"""MP-2024-000204""",28-05-2024,June,ALR077,AL Ramana,2024,42:12.4,ramana@csa-india.org
+"""MP-2024-000205""",28-05-2024,June,ALR077,AL Ramana,2024,47:27.7,ramana@csa-india.org
+"""MP-2024-000289""",29-06-2024,July,ALR077,AL Ramana,2024,01:36.0,ramana@csa-india.org
+"""MP-2024-000322""",30-07-2024,August,ALR077,AL Ramana,2024,03:48.5,ramana@csa-india.org
+"""MP-2024-000395""",01-10-2024,October,ALR077,AL Ramana,2024,15:33.5,ramana@csa-india.org
+"""MP-2024-000457""",03-12-2024,December,ALR077,AL Ramana,2024,11:33.0,ramana@csa-india.org
+"""MP-2024-000473""",31-12-2024,January,ALR077,AL Ramana,2025,59:25.9,ramana@csa-india.org
+"""MP-2023-000074""",04-11-2023,November,ALE028,Aleesha Sooraj,2023,40:21.4,aleesha@csa-india.org
+"""MP-2024-000336""",01-08-2024,August,ALE028,Aleesha Sooraj,2024,03:33.3,aleesha@csa-india.org
+"""MP-2024-000378""",06-09-2024,September,ALE028,Aleesha Sooraj,2024,38:13.3,aleesha@csa-india.org
+"""MP-2023-000040""",26-10-2023,November,BES080,Besta Udaya Kumar,2023,52:41.8,budaya@csa-india.org
+"""MP-2023-000092""",26-11-2023,December,BES080,Besta Udaya Kumar,2023,58:40.5,budaya@csa-india.org
+"""MP-2023-000193""",30-12-2023,January,BES080,Besta Udaya Kumar,2024,11:14.3,budaya@csa-india.org
+"""MP-2024-000055""",31-01-2024,February,BES080,Besta Udaya Kumar,2024,58:30.7,budaya@csa-india.org
+"""MP-2024-000096""",26-02-2024,March,BES080,Besta Udaya Kumar,2024,26:12.1,budaya@csa-india.org
+"""MP-2024-000161""",30-04-2024,May,BES080,Besta Udaya Kumar,2024,59:51.4,budaya@csa-india.org
+"""MP-2024-000202""",28-05-2024,June,BES080,Besta Udaya Kumar,2024,17:20.6,budaya@csa-india.org
+"""MP-2024-000288""",28-06-2024,July,BES080,Besta Udaya Kumar,2024,44:47.6,budaya@csa-india.org
+"""MP-2024-000313""",28-07-2024,August,BES080,Besta Udaya Kumar,2024,01:52.5,budaya@csa-india.org
+"""MP-2024-000356""",26-08-2024,September,BES080,Besta Udaya Kumar,2024,15:55.8,budaya@csa-india.org
+"""MP-2023-000037""",01-11-2023,November,BHA110,Bharath Chinnam,2023,12:24.4,bharathch@csa-india.org
+"""MP-2023-000038""",30-11-2023,November,BHA110,Bharath Chinnam,2023,04:31.1,bharathch@csa-india.org
+"""MP-2024-000173""",01-05-2024,May,BHA110,Bharath Chinnam,2024,10:03.6,bharathch@csa-india.org
+"""MP-2024-000174""",02-05-2024,May,BHA110,Bharath Chinnam,2024,16:21.4,bharathch@csa-india.org
+"""MP-2023-000023""",31-10-2023,November,BHA084,Bhaskar M.D,2023,06:54.9,mallepallidevabhaskar@gmail.com
+"""MP-2023-000112""",30-11-2023,December,BHA084,Bhaskar M.D,2023,29:40.1,mallepallidevabhaskar@gmail.com
+"""MP-2024-000028""",02-01-2024,January,BHA084,Bhaskar M.D,2023,35:55.6,mallepallidevabhaskar@gmail.com
+"""MP-2024-000070""",01-02-2024,February,BHA084,Bhaskar M.D,2024,50:33.1,mallepallidevabhaskar@gmail.com
+"""MP-2024-000191""",01-05-2024,May,BHA084,Bhaskar M.D,2024,15:12.6,mallepallidevabhaskar@gmail.com
+"""MP-2024-000210""",28-05-2024,June,BHA084,Bhaskar M.D,2024,03:34.1,mallepallidevabhaskar@gmail.com
+"""MP-2024-000290""",01-07-2024,July,BHA084,Bhaskar M.D,2024,00:22.7,mallepallidevabhaskar@gmail.com
+"""MP-2024-000330""",01-08-2024,August,BHA084,Bhaskar M.D,2024,21:57.1,mallepallidevabhaskar@gmail.com
+"""MP-2024-000370""",02-09-2024,September,BHA084,Bhaskar M.D,2024,24:53.3,mallepallidevabhaskar@gmail.com
+"""MP-2024-000465""",11-12-2024,December,BHA084,Bhaskar M.D,2024,44:13.5,mallepallidevabhaskar@gmail.com
+"""MP-2025-000011""",03-01-2025,January,BHA084,Bhaskar M.D,2024,50:02.2,mallepallidevabhaskar@gmail.com
+"""MP-2023-000123""",05-12-2023,December,CHR046,Ch Rajesh,2023,05:51.9,rajeshch@csa-india.org
+"""MP-2023-000124""",06-12-2023,December,CHR046,Ch Rajesh,2023,07:11.1,rajeshch@csa-india.org
+"""MP-2023-000125""",07-12-2023,December,CHR046,Ch Rajesh,2023,09:04.0,rajeshch@csa-india.org
+"""MP-2023-000126""",08-12-2023,December,CHR046,Ch Rajesh,2023,10:10.1,rajeshch@csa-india.org
+"""MP-2023-000127""",09-12-2023,December,CHR046,Ch Rajesh,2023,11:04.3,rajeshch@csa-india.org
+"""MP-2023-000128""",11-12-2023,December,CHR046,Ch Rajesh,2023,12:47.3,rajeshch@csa-india.org
+"""MP-2023-000129""",12-12-2023,December,CHR046,Ch Rajesh,2023,15:32.4,rajeshch@csa-india.org
+"""MP-2023-000130""",13-12-2023,December,CHR046,Ch Rajesh,2023,17:03.3,rajeshch@csa-india.org
+"""MP-2023-000131""",14-12-2023,December,CHR046,Ch Rajesh,2023,19:02.9,rajeshch@csa-india.org
+"""MP-2023-000132""",15-12-2023,December,CHR046,Ch Rajesh,2023,20:55.1,rajeshch@csa-india.org
+"""MP-2023-000133""",16-12-2023,December,CHR046,Ch Rajesh,2023,22:43.7,rajeshch@csa-india.org
+"""MP-2023-000134""",18-12-2023,December,CHR046,Ch Rajesh,2023,25:47.7,rajeshch@csa-india.org
+"""MP-2023-000135""",19-12-2023,December,CHR046,Ch Rajesh,2023,27:30.4,rajeshch@csa-india.org
+"""MP-2023-000136""",01-12-2023,December,CHR046,Ch Rajesh,2023,35:10.4,rajeshch@csa-india.org
+"""MP-2023-000137""",02-12-2023,December,CHR046,Ch Rajesh,2023,37:05.6,rajeshch@csa-india.org
+"""MP-2023-000138""",22-12-2023,December,CHR046,Ch Rajesh,2023,39:24.2,rajeshch@csa-india.org
+"""MP-2023-000139""",23-12-2023,December,CHR046,Ch Rajesh,2023,41:16.1,rajeshch@csa-india.org
+"""MP-2023-000140""",04-12-2023,December,CHR046,Ch Rajesh,2023,45:08.9,rajeshch@csa-india.org
+"""MP-2023-000141""",26-12-2023,December,CHR046,Ch Rajesh,2023,48:47.7,rajeshch@csa-india.org
+"""MP-2023-000142""",27-12-2023,December,CHR046,Ch Rajesh,2023,49:47.9,rajeshch@csa-india.org
+"""MP-2023-000143""",28-12-2023,December,CHR046,Ch Rajesh,2023,51:20.0,rajeshch@csa-india.org
+"""MP-2023-000144""",29-12-2023,December,CHR046,Ch Rajesh,2023,52:51.3,rajeshch@csa-india.org
+"""MP-2024-000345""",07-08-2024,August,CHR046,Ch Rajesh,2024,59:19.2,rajeshch@csa-india.org
+"""MP-2023-000072""",01-11-2023,November,CHA062,Chandra Sekhar G,2023,29:00.8,sekhar@csa-india.org
+"""MP-2024-000420""",28-10-2024,November,CHA062,Chandra Sekhar G,2024,26:59.6,sekhar@csa-india.org
+"""MP-2025-000007""",03-01-2025,January,CHA062,Chandra Sekhar G,2025,11:50.8,sekhar@csa-india.org
+"""MP-2023-000015""",28-10-2023,November,CHA011,Chandrakala P,2023,05:08.7,srikanth@csa-india.org
+"""MP-2024-000427""",28-10-2024,November,CHA011,Chandrakala P,2024,52:21.2,chandrakala@csa-india.org
+"""MP-2024-000448""",01-12-2024,December,CHA011,Chandrakala P,2024,58:41.6,chandrakala@csa-india.org
+"""MP-2025-000014""",01-01-2025,January,CHA011,Chandrakala P,2025,45:41.5,chandrakala@csa-india.org
+"""MP-2024-000449""",01-12-2024,December,CHA169,Chandrashekar G,2024,22:18.7,sekhar@csa-india.org
+"""MP-2024-000141""",02-04-2024,April,DUD121,D Uday kumar yadav,2024,22:33.8,udaykumar@csa-india.org
+"""MP-2024-000342""",06-08-2024,August,DUD121,D Uday kumar yadav,2024,52:31.0,udaykumar@csa-india.org
+"""MP-2024-000450""",02-12-2024,December,GOW007,Gowri Sankara Rao,2024,34:45.5,gowrishankar@csa-india.org
+"""MP-2023-000180""",29-12-2023,December,JAN075,Janardhan S,2023,12:52.8,janardhan@csa-india.org
+"""MP-2023-000186""",30-12-2023,December,JAN075,Janardhan S,2023,10:38.4,janardhan@csa-india.org
+"""MP-2023-000187""",01-01-2024,January,JAN075,Janardhan S,2024,12:28.8,janardhan@csa-india.org
+"""MP-2023-000188""",02-01-2024,January,JAN075,Janardhan S,2024,15:42.0,janardhan@csa-india.org
+"""MP-2023-000189""",03-01-2024,January,JAN075,Janardhan S,2024,17:59.0,janardhan@csa-india.org
+"""MP-2023-000190""",04-01-2024,January,JAN075,Janardhan S,2024,20:16.8,janardhan@csa-india.org
+"""MP-2023-000192""",05-01-2024,January,JAN075,Janardhan S,2024,40:12.1,janardhan@csa-india.org
+"""MP-2024-000036""",06-01-2024,January,JAN075,Janardhan S,2024,17:47.6,janardhan@csa-india.org
+"""MP-2024-000063""",26-01-2024,February,JAN075,Janardhan S,2024,25:21.1,janardhan@csa-india.org
+"""MP-2024-000128""",26-02-2024,March,JAN075,Janardhan S,2024,15:45.8,janardhan@csa-india.org
+"""MP-2024-000156""",26-04-2024,May,JAN075,Janardhan S,2024,11:09.6,janardhan@csa-india.org
+"""MP-2024-000235""",02-05-2024,June,JAN075,Janardhan S,2024,52:55.6,janardhan@csa-india.org
+"""MP-2023-000010""",30-10-2023,November,JAY095,Jayanna J,2023,05:08.6,srikanth@csa-india.org
+"""MP-2023-000091""",01-12-2023,December,JAY095,Jayanna J,2023,47:48.7,jayanna.j@gmail.com
+"""MP-2024-000030""",01-01-2024,January,JAY095,Jayanna J,2024,09:06.5,jayanna.j@gmail.com
+"""MP-2024-000072""",02-02-2024,February,JAY095,Jayanna J,2024,49:03.8,jayanna.j@gmail.com
+"""MP-2024-000146""",01-04-2024,April,JAY095,Jayanna J,2024,06:12.7,jayanna.j@gmail.com
+"""MP-2024-000169""",01-05-2024,May,JAY095,Jayanna J,2024,07:43.0,jayanna.j@gmail.com
+"""MP-2024-000187""",01-05-2024,May,JAY095,Jayanna J,2024,16:30.5,jayanna.j@gmail.com
+"""MP-2023-000034""",01-11-2023,November,KVE112,K Venkataiah,2023,54:47.7,venkataiahk@csa-india.org
+"""MP-2023-000095""",26-11-2023,December,KON082,Kondakala Shyamala,2023,06:05.2,shyamalak@csa-india.org
+"""MP-2023-000173""",26-12-2023,January,KON082,Kondakala Shyamala,2024,39:47.9,shyamalak@csa-india.org
+"""MP-2023-000174""",26-12-2023,January,KON082,Kondakala Shyamala,2024,52:51.9,shyamalak@csa-india.org
+"""MP-2024-000054""",26-01-2024,February,KON082,Kondakala Shyamala,2024,41:12.2,shyamalak@csa-india.org
+"""MP-2024-000130""",26-02-2024,March,KON082,Kondakala Shyamala,2024,41:26.7,shyamalak@csa-india.org
+"""MP-2024-000178""",26-04-2024,May,KON082,Kondakala Shyamala,2024,35:26.0,shyamalak@csa-india.org
+"""MP-2024-000245""",26-05-2024,June,KON082,Kondakala Shyamala,2024,21:57.8,shyamalak@csa-india.org
+"""MP-2024-000326""",26-07-2024,August,KON082,Kondakala Shyamala,2024,21:42.6,shyamalak@csa-india.org
+"""MP-2024-000364""",26-08-2024,September,KON082,Kondakala Shyamala,2024,20:27.9,shyamalak@csa-india.org
+"""MP-2024-000391""",03-10-2024,October,KON082,Kondakala Shyamala,2024,35:05.6,shyamalak@csa-india.org
+"""MP-2024-000441""",26-11-2024,December,KON082,Kondakala Shyamala,2024,16:36.3,shyamalak@csa-india.org
+"""MP-2024-000442""",26-11-2024,December,KON082,Kondakala Shyamala,2024,40:43.9,shyamalak@csa-india.org
+"""MP-2024-000443""",26-11-2024,December,KON082,Kondakala Shyamala,2024,01:36.5,shyamalak@csa-india.org
+"""MP-2024-000444""",26-11-2024,December,KON082,Kondakala Shyamala,2024,09:56.8,shyamalak@csa-india.org
+"""MP-2024-000445""",28-11-2024,December,KON082,Kondakala Shyamala,2024,23:16.2,shyamalak@csa-india.org
+"""MP-2025-000001""",26-12-2024,January,KON082,Kondakala Shyamala,2025,48:13.3,shyamalak@csa-india.org
+"""MP-2023-000012""",30-10-2023,October,LAK066,Lakshmi Bhairava Kumar Manchunuru,2023,05:08.7,srikanth@csa-india.org
+"""MP-2023-000013""",30-10-2023,October,LAK066,Lakshmi Bhairava Kumar Manchunuru,2023,05:08.7,srikanth@csa-india.org
+"""MP-2024-000298""",08-07-2024,July,LAK066,Lakshmi Bhairava Kumar Manchunuru,2024,10:13.5,bhairava@krishnasudhaacademy.org
+"""MP-2024-000299""",22-07-2024,July,LAK066,Lakshmi Bhairava Kumar Manchunuru,2024,12:51.9,bhairava@krishnasudhaacademy.org
+"""MP-2024-000300""",12-07-2024,July,LAK066,Lakshmi Bhairava Kumar Manchunuru,2024,15:48.0,bhairava@krishnasudhaacademy.org
+"""MP-2023-000035""",01-11-2023,November,LAK016,Lakshmi K,2023,14:45.9,lakshmi@csa-india.org
+"""MP-2023-000088""",27-11-2023,November,LAK016,Lakshmi K,2023,28:36.2,lakshmi@csa-india.org
+"""MP-2024-000234""",28-05-2024,June,MAM029,Mamatha Goundla,2024,03:36.7,mamathag@csa-india.org
+"""MP-2024-000306""",25-07-2024,August,MAM029,Mamatha Goundla,2024,32:52.3,mamathag@csa-india.org
+"""MP-2024-000379""",06-09-2024,September,MAM029,Mamatha Goundla,2024,30:51.3,mamathag@csa-india.org
+"""MP-2024-000406""",05-10-2024,October,MAM029,Mamatha Goundla,2024,30:42.6,mamathag@csa-india.org
+"""MP-2024-000417""",28-10-2024,November,MAM029,Mamatha Goundla,2024,03:54.6,mamathag@csa-india.org
+"""MP-2023-000098""",30-11-2023,December,MUN096,Muni Lakshmi,2023,48:07.1,munilakshmi@csa-india.org
+"""MP-2023-000099""",01-11-2023,December,MUN096,Muni Lakshmi,2023,53:29.2,munilakshmi@csa-india.org
+"""MP-2023-000100""",03-11-2023,December,MUN096,Muni Lakshmi,2023,55:03.0,munilakshmi@csa-india.org
+"""MP-2023-000101""",04-11-2023,December,MUN096,Muni Lakshmi,2023,01:28.5,munilakshmi@csa-india.org
+"""MP-2023-000102""",06-11-2023,December,MUN096,Muni Lakshmi,2023,04:32.1,munilakshmi@csa-india.org
+"""MP-2023-000103""",05-12-2023,December,MUN096,Muni Lakshmi,2023,06:55.9,munilakshmi@csa-india.org
+"""MP-2023-000104""",06-12-2023,December,MUN096,Muni Lakshmi,2023,09:13.1,munilakshmi@csa-india.org
+"""MP-2023-000105""",12-11-2023,December,MUN096,Muni Lakshmi,2023,11:09.8,munilakshmi@csa-india.org
+"""MP-2023-000106""",13-12-2023,December,MUN096,Muni Lakshmi,2023,12:30.9,munilakshmi@csa-india.org
+"""MP-2023-000107""",19-12-2023,December,MUN096,Muni Lakshmi,2023,14:11.5,munilakshmi@csa-india.org
+"""MP-2023-000108""",20-12-2023,December,MUN096,Muni Lakshmi,2023,15:17.1,munilakshmi@csa-india.org
+"""MP-2023-000109""",26-12-2023,December,MUN096,Muni Lakshmi,2023,17:19.4,munilakshmi@csa-india.org
+"""MP-2023-000110""",27-12-2023,December,MUN096,Muni Lakshmi,2023,18:46.1,munilakshmi@csa-india.org
+"""MP-2023-000111""",30-12-2023,December,MUN096,Muni Lakshmi,2023,21:48.1,munilakshmi@csa-india.org
+"""MP-2023-000113""",01-12-2023,December,MUN096,Muni Lakshmi,2023,45:45.5,munilakshmi@csa-india.org
+"""MP-2023-000185""",29-12-2023,January,MUN096,Muni Lakshmi,2023,50:04.3,munilakshmi@csa-india.org
+"""MP-2024-000045""",28-01-2024,February,MUN096,Muni Lakshmi,2024,21:49.9,munilakshmi@csa-india.org
+"""MP-2024-000126""",28-02-2024,March,MUN096,Muni Lakshmi,2024,04:12.8,munilakshmi@csa-india.org
+"""MP-2024-000138""",28-03-2024,April,MUN096,Muni Lakshmi,2024,18:08.3,munilakshmi@csa-india.org
+"""MP-2024-000150""",27-04-2024,May,MUN096,Muni Lakshmi,2024,42:44.9,munilakshmi@csa-india.org
+"""MP-2024-000239""",31-05-2024,June,MUN096,Muni Lakshmi,2024,58:54.5,munilakshmi@csa-india.org
+"""MP-2024-000282""",27-06-2024,July,MUN096,Muni Lakshmi,2024,37:46.7,munilakshmi@csa-india.org
+"""MP-2024-000323""",29-07-2024,August,MUN096,Muni Lakshmi,2024,23:55.9,munilakshmi@csa-india.org
+"""MP-2024-000324""",29-07-2024,August,MUN096,Muni Lakshmi,2024,51:33.5,munilakshmi@csa-india.org
+"""MP-2024-000359""",27-08-2024,September,MUN096,Muni Lakshmi,2024,34:19.9,munilakshmi@csa-india.org
+"""MP-2024-000389""",28-09-2024,October,MUN096,Muni Lakshmi,2024,20:50.1,munilakshmi@csa-india.org
+"""MP-2024-000430""",30-10-2024,September,MUN096,Muni Lakshmi,2024,13:35.7,munilakshmi@csa-india.org
+"""MP-2024-000405""",01-10-2024,October,MUR008,Murugesh K,2024,54:05.3,murugesan@csa-india.org
+"""MP-2024-000419""",01-11-2024,November,MUR008,Murugesh K,2024,23:03.1,murugesan@csa-india.org
+"""MP-2024-000421""",02-11-2024,November,MUR008,Murugesh K,2024,28:23.3,murugesan@csa-india.org
+"""MP-2024-000433""",30-10-2024,November,MUR008,Murugesh K,2024,59:09.0,murugesan@csa-india.org
+"""MP-2024-000466""",11-12-2024,December,MUR008,Murugesh K,2024,30:21.4,murugesan@csa-india.org
+"""MP-2025-000004""",02-01-2025,January,MUR008,Murugesh K,2025,46:07.7,murugesan@csa-india.org
+"""MP-2025-000005""",02-01-2025,January,MUR008,Murugesh K,2025,25:47.3,murugesan@csa-india.org
+"""MP-2025-000020""",31-01-2025,February,MUR008,Murugesh K,2025,58:12.9,murugesan@csa-india.org
+"""MP-2023-000024""",26-10-2023,October,NAG085,Nagavenamma S,2023,26:52.4,nagavenamma@csa-india.org
+"""MP-2023-000025""",26-10-2023,November,NAG085,Nagavenamma S,2023,06:08.7,nagavenamma@csa-india.org
+"""MP-2023-000090""",26-11-2023,December,NAG085,Nagavenamma S,2023,13:30.1,nagavenamma@csa-india.org
+"""MP-2023-000171""",26-12-2023,January,NAG085,Nagavenamma S,2024,36:14.1,nagavenamma@csa-india.org
+"""MP-2024-000058""",26-01-2024,February,NAG085,Nagavenamma S,2024,27:48.0,nagavenamma@csa-india.org
+"""MP-2024-000094""",26-02-2024,March,NAG085,Nagavenamma S,2024,49:50.0,nagavenamma@csa-india.org
+"""MP-2024-000158""",26-04-2024,May,NAG085,Nagavenamma S,2024,50:19.2,nagavenamma@csa-india.org
+"""MP-2024-000198""",26-05-2024,June,NAG085,Nagavenamma S,2024,22:58.8,nagavenamma@csa-india.org
+"""MP-2024-000244""",26-05-2024,June,NAG085,Nagavenamma S,2024,19:21.3,nagavenamma@csa-india.org
+"""MP-2024-000260""",26-06-2024,July,NAG085,Nagavenamma S,2023,47:35.4,nagavenamma@csa-india.org
+"""MP-2024-000327""",26-07-2024,August,NAG085,Nagavenamma S,2024,33:24.8,nagavenamma@csa-india.org
+"""MP-2024-000363""",26-08-2024,September,NAG085,Nagavenamma S,2024,03:16.7,nagavenamma@csa-india.org
+"""MP-2024-000388""",26-09-2024,October,NAG085,Nagavenamma S,2024,41:40.5,nagavenamma@csa-india.org
+"""MP-2024-000428""",26-10-2024,October,NAG085,Nagavenamma S,2024,05:52.4,nagavenamma@csa-india.org
+"""MP-2024-000429""",26-10-2024,October,NAG085,Nagavenamma S,2024,54:48.8,nagavenamma@csa-india.org
+"""MP-2024-000470""",26-12-2024,January,NAG085,Nagavenamma S,2025,58:32.0,nagavenamma@csa-india.org
+"""MP-2023-000022""",31-10-2023,November,NAR100,Naresh Chary,2023,36:41.3,naresh@csa-india.org
+"""MP-2023-000086""",27-11-2023,December,NAR100,Naresh Chary,2023,31:54.6,naresh@csa-india.org
+"""MP-2024-000039""",01-01-2024,January,NAR100,Naresh Chary,2024,45:04.9,naresh@csa-india.org
+"""MP-2024-000047""",30-01-2024,February,NAR100,Naresh Chary,2024,13:22.9,naresh@csa-india.org
+"""MP-2024-000129""",28-02-2024,March,NAR100,Naresh Chary,2024,40:18.7,naresh@csa-india.org
+"""MP-2024-000144""",01-04-2024,April,NAR100,Naresh Chary,2024,15:02.0,naresh@csa-india.org
+"""MP-2024-000177""",01-05-2024,May,NAR100,Naresh Chary,2024,26:02.0,naresh@csa-india.org
+"""MP-2024-000242""",01-06-2024,June,NAR100,Naresh Chary,2024,04:51.3,naresh@csa-india.org
+"""MP-2024-000243""",01-06-2024,June,NAR100,Naresh Chary,2024,13:20.9,naresh@csa-india.org
+"""MP-2024-000332""",01-08-2024,August,NAR100,Naresh Chary,2024,59:25.9,naresh@csa-india.org
+"""MP-2024-000333""",01-08-2024,August,NAR100,Naresh Chary,2024,06:44.3,naresh@csa-india.org
+"""MP-2024-000374""",03-09-2024,September,NAR100,Naresh Chary,2024,04:05.7,naresh@csa-india.org
+"""MP-2025-000010""",01-06-2024,January,NAR100,Naresh Chary,2025,00:14.3,naresh@csa-india.org
+"""MP-2023-000096""",29-11-2023,December,PGA083,P Gangulappa,2023,30:30.3,pgangulappa@csa-india.org
+"""MP-2023-000182""",03-01-2024,January,PGA083,P Gangulappa,2024,57:01.8,pgangulappa@csa-india.org
+"""MP-2023-000183""",05-01-2024,January,PGA083,P Gangulappa,2024,02:32.8,pgangulappa@csa-india.org
+"""MP-2023-000184""",04-01-0202,January,PGA083,P Gangulappa,2024,49:31.8,pgangulappa@csa-india.org
+"""MP-2024-000034""",04-01-2024,January,PGA083,P Gangulappa,2024,49:27.9,pgangulappa@csa-india.org
+"""MP-2024-000051""",01-02-2024,February,PGA083,P Gangulappa,2024,19:36.5,pgangulappa@csa-india.org
+"""MP-2024-000127""",01-03-2024,March,PGA083,P Gangulappa,2024,20:49.2,pgangulappa@csa-india.org
+"""MP-2024-000152""",02-04-2024,May,PGA083,P Gangulappa,2024,51:11.7,pgangulappa@csa-india.org
+"""MP-2024-000201""",28-05-2024,June,PGA083,P Gangulappa,2024,16:51.9,pgangulappa@csa-india.org
+"""MP-2024-000284""",28-06-2024,July,PGA083,P Gangulappa,2024,08:20.3,pgangulappa@csa-india.org
+"""MP-2024-000312""",28-07-2024,August,PGA083,P Gangulappa,2024,04:24.0,pgangulappa@csa-india.org
+"""MP-2024-000360""",26-08-2024,September,PGA083,P Gangulappa,2024,01:08.4,pgangulappa@csa-india.org
+"""MP-2024-000394""",01-10-2024,October,PGA083,P Gangulappa,2024,12:57.9,pgangulappa@csa-india.org
+"""MP-2023-000031""",31-10-2023,November,PSI071,P Sivarjuna Reddy,2023,11:20.8,sivarjuna@csa-india.org
+"""MP-2023-000087""",27-11-2023,December,PSI071,P Sivarjuna Reddy,2023,52:28.6,sivarjuna@csa-india.org
+"""MP-2023-000170""",26-12-2023,January,PSI071,P Sivarjuna Reddy,2024,49:12.7,sivarjuna@csa-india.org
+"""MP-2024-000061""",26-01-2024,February,PSI071,P Sivarjuna Reddy,2024,43:48.6,sai@csa-india.org
+"""MP-2024-000142""",26-03-2024,April,PSI071,P Sivarjuna Reddy,2024,57:22.1,sivarjuna@csa-india.org
+"""MP-2024-000162""",30-04-2024,May,PSI071,P Sivarjuna Reddy,2024,25:05.0,sivarjuna@csa-india.org
+"""MP-2024-000203""",26-05-2024,June,PSI071,P Sivarjuna Reddy,2024,03:54.8,sivarjuna@csa-india.org
+"""MP-2024-000246""",26-05-2024,June,PSI071,P Sivarjuna Reddy,2024,59:59.4,sivarjuna@csa-india.org
+"""MP-2024-000281""",26-06-2024,July,PSI071,P Sivarjuna Reddy,2024,35:41.3,sai@csa-india.org
+"""MP-2024-000318""",26-07-2024,August,PSI071,P Sivarjuna Reddy,2024,26:21.3,sivarjuna@csa-india.org
+"""MP-2024-000357""",26-08-2024,September,PSI071,P Sivarjuna Reddy,2024,38:31.1,sivarjuna@csa-india.org
+"""MP-2024-000393""",26-09-2024,October,PSI071,P Sivarjuna Reddy,2024,09:40.5,sivarjuna@csa-india.org
+"""MP-2024-000414""",26-10-2024,November,PSI071,P Sivarjuna Reddy,2024,24:25.0,sivarjuna@csa-india.org
+"""MP-2024-000439""",26-11-2024,December,PSI071,P Sivarjuna Reddy,2024,03:29.0,sivarjuna@csa-india.org
+"""MP-2024-000472""",30-12-2024,January,PSI071,P Sivarjuna Reddy,2025,08:14.5,sivarjuna@csa-india.org
+"""MP-2025-000016""",25-01-2025,February,PSI071,P Sivarjuna Reddy,2025,14:29.3,sivarjuna@csa-india.org
+"""MP-2025-000027""",26-02-2025,March,PSI071,P Sivarjuna Reddy,2025,56:14.3,sivarjuna@csa-india.org
+"""MP-2023-000006""",31-10-2023,November,PAV069,Pavan Kumar Yaparala,2023,14:18.2,pavan@csa-india.org
+"""MP-2023-000145""",04-12-2023,December,PAV069,Pavan Kumar Yaparala,2023,18:49.1,pavan@csa-india.org
+"""MP-2024-000001""",01-01-2024,January,PAV069,Pavan Kumar Yaparala,2024,03:26.0,pavan@csa-india.org
+"""MP-2024-000046""",02-02-2024,February,PAV069,Pavan Kumar Yaparala,2024,44:29.9,pavan@csa-india.org
+"""MP-2024-000149""",27-04-2024,May,PAV069,Pavan Kumar Yaparala,2024,29:58.2,pavan@csa-india.org
+"""MP-2024-000249""",14-06-2024,June,PAV069,Pavan Kumar Yaparala,2024,28:06.4,pavan@csa-india.org
+"""MP-2024-000285""",01-07-2024,July,PAV069,Pavan Kumar Yaparala,2024,43:44.3,pavan@csa-india.org
+"""MP-2023-000076""",03-11-2023,November,PRA076,Prasanghi Y,2023,59:45.6,prasanghi@csa-india.org
+"""MP-2024-000163""",01-05-2024,May,PRA076,Prasanghi Y,2024,26:59.3,prasanghi@csa-india.org
+"""MP-2023-000001""",01-10-2023,November,PRA002,Prasanna TP,2023,45:40.6,prasanna@csa-india.org
+"""MP-2023-000004""",21-10-2023,November,PRA002,Prasanna TP,2023,42:13.2,prasanna@csa-india.org
+"""MP-2023-000085""",27-11-2023,December,PRA002,Prasanna TP,2023,07:17.7,prasanna@csa-india.org
+"""MP-2024-000042""",08-01-2024,January,PRA002,Prasanna TP,2024,25:16.6,prasanna@csa-india.org
+"""MP-2024-000050""",30-01-2024,February,PRA002,Prasanna TP,2024,29:09.9,prasanna@csa-india.org
+"""MP-2024-000181""",01-05-2024,May,PRA002,Prasanna TP,2024,09:02.1,prasanna@csa-india.org
+"""MP-2024-000310""",26-07-2024,August,PRA002,Prasanna TP,2024,35:19.7,prasanna@csa-india.org
+"""MP-2024-000365""",31-08-2024,September,PRA002,Prasanna TP,2024,48:38.5,prasanna@csa-india.org
+"""MP-2024-000397""",01-10-2024,October,PRA002,Prasanna TP,2024,36:20.3,prasanna@csa-india.org
+"""MP-2024-000423""",28-10-2024,December,PRA002,Prasanna TP,2024,36:27.1,prasanna@csa-india.org
+"""MP-2024-000425""",28-10-2024,November,PRA002,Prasanna TP,2024,35:44.2,prasanna@csa-india.org
+"""MP-2024-000446""",30-11-2024,December,PRA002,Prasanna TP,2024,04:59.8,prasanna@csa-india.org
+"""MP-2024-000469""",30-12-2024,January,PRA002,Prasanna TP,2025,16:44.5,prasanna@csa-india.org
+"""MP-2025-000024""",30-12-2024,February,PRA002,Prasanna TP,2025,02:28.2,prasanna@csa-india.org
+"""MP-2025-000028""",27-02-2025,March,PRA002,Prasanna TP,2025,19:46.7,prasanna@csa-india.org
+"""MP-2023-000020""",03-11-2023,November,RAJ050,Raja Kumar B,2023,19:20.3,rajakumar@csa-india.org
+"""MP-2023-000121""",03-12-2023,December,RAJ050,Raja Kumar B,2024,43:57.0,rajakumar@csa-india.org
+"""MP-2023-000122""",31-12-2023,December,RAJ050,Raja Kumar B,2024,45:33.4,rajakumar@csa-india.org
+"""MP-2024-000409""",07-10-2024,October,RAJ024,Rajashekar G,2024,43:37.0,coo@csa-india.org
+"""MP-2024-000464""",06-12-2024,December,RAJ024,Rajashekar G,2024,15:11.7,coo@csa-india.org
+"""MP-2023-000002""",18-10-2023,November,RAM001,Ramanjaneyulu  GV,2023,17:15.1,ramoo@csa-india.org
+"""MP-2023-000117""",30-11-2023,December,RAM001,Ramanjaneyulu  GV,2023,42:54.3,ramoo@csa-india.org
+"""MP-2024-000041""",03-01-2024,January,RAM001,Ramanjaneyulu  GV,2024,01:38.3,ramoo@csa-india.org
+"""MP-2024-000157""",30-04-2024,May,RAM001,Ramanjaneyulu  GV,2024,19:28.9,ramoo@csa-india.org
+"""MP-2023-000017""",26-10-2023,November,RAM101,Rambabu,2023,05:08.8,srikanth@csa-india.org
+"""MP-2023-000018""",26-10-2023,November,RAM101,Rambabu,2023,05:08.8,srikanth@csa-india.org
+"""MP-2023-000019""",26-10-2023,October,RAM101,Rambabu,2023,05:08.8,srikanth@csa-india.org
+"""MP-2024-000040""",07-01-2024,January,RAM101,Rambabu,2024,27:07.3,rambabu@csa-india.org
+"""MP-2024-000147""",26-04-2024,April,RAM101,Rambabu,2024,06:23.5,rambabu@csa-india.org
+"""MP-2024-000422""",28-10-2024,November,RAM101,Rambabu,2024,19:20.8,rambabu@csa-india.org
+"""MP-2024-000459""",03-12-2024,December,RAM101,Rambabu,2024,48:11.7,rambabu@csa-india.org
+"""MP-2024-000463""",03-12-2024,December,RAM101,Rambabu,2024,17:44.4,rambabu@csa-india.org
+"""MP-2025-000006""",02-01-2025,December,RAM101,Rambabu,2024,09:23.2,rambabu@csa-india.org
+"""MP-2025-000009""",02-01-2025,January,RAM101,Rambabu,2025,32:06.4,rambabu@csa-india.org
+"""MP-2025-000021""",31-01-2025,February,RAM101,Rambabu,2025,52:08.8,rambabu@csa-india.org
+"""MP-2023-000009""",01-11-2023,November,RAM051,Ramesh Dodde,2023,30:42.6,rameshdodde@csa-india.org
+"""MP-2023-000154""",01-12-2023,December,RAM051,Ramesh Dodde,2023,09:21.2,rameshdodde@csa-india.org
+"""MP-2024-000340""",05-08-2024,August,RAM051,Ramesh Dodde,2024,12:22.6,rameshdodde@csa-india.org
+"""MP-2024-000371""",01-09-2024,September,RAM051,Ramesh Dodde,2024,45:13.7,rameshdodde@csa-india.org
+"""MP-2023-000014""",28-10-2023,November,RAM117,Ramesh K,2023,05:08.7,srikanth@csa-india.org
+"""MP-2023-000167""",01-12-2023,November,RAM117,Ramesh K,2023,32:47.9,ramesh@csa-india.org
+"""MP-2023-000168""",10-12-2023,December,RAM117,Ramesh K,2023,47:37.4,ramesh@csa-india.org
+"""MP-2024-000350""",08-08-2024,August,RAM117,Ramesh K,2024,24:18.5,ramesh@csa-india.org
+"""MP-2024-000311""",27-07-2024,February,RAM055,Ramesh P,2024,54:42.2,rameshp@csa-india.org
+"""MP-2024-000400""",01-10-2024,October,RAM040,Ramprasad,2024,46:29.4,ramprasad@csa-india.org
+"""MP-2024-000436""",05-11-2024,November,RAM040,Ramprasad,2024,47:24.8,ramprasad@csa-india.org
+"""MP-2024-000454""",02-12-2024,December,RAM040,Ramprasad,2024,04:06.8,ramprasad@csa-india.org
+"""MP-2025-000012""",03-01-2025,January,RAM040,Ramprasad,2025,53:57.3,ramprasad@csa-india.org
+"""MP-2025-000019""",29-01-2025,February,RAM040,Ramprasad,2024,39:10.7,ramprasad@csa-india.org
+"""MP-2023-000032""",18-11-2023,November,RAV079,Ravi Teja Amudala,2023,56:02.6,ravitejaamudala@csa-india.org
+"""MP-2024-000160""",02-05-2024,May,RAV079,Ravi Teja Amudala,2024,35:06.2,ravitejaamudala@csa-india.org
+"""MP-2024-000410""",01-11-2024,November,RAV079,Ravi Teja Amudala,2024,53:55.7,ravitejaamudala@csa-india.org
+"""MP-2023-000079""",14-11-2023,November,RAV072,Ravi Teja Polu,2023,11:40.6,ravitejapolu@csa-india.org
+"""MP-2023-000153""",01-12-2023,December,RAV072,Ravi Teja Polu,2023,53:09.1,ravitejapolu@csa-india.org
+"""MP-2023-000181""",29-12-2023,January,RAV072,Ravi Teja Polu,2024,27:11.1,ravitejapolu@csa-india.org
+"""MP-2024-000053""",30-01-2024,February,RAV072,Ravi Teja Polu,2024,36:55.0,ravitejapolu@csa-india.org
+"""MP-2024-000190""",26-04-2024,May,RAV072,Ravi Teja Polu,2024,06:37.1,ravitejapolu@csa-india.org
+"""MP-2024-000296""",01-07-2024,July,RAV072,Ravi Teja Polu,2024,46:55.7,ravitejapolu@csa-india.org
+"""MP-2024-000334""",01-08-2024,August,RAV072,Ravi Teja Polu,2024,10:37.5,ravitejapolu@csa-india.org
+"""MP-2024-000335""",31-07-2024,August,RAV072,Ravi Teja Polu,2024,49:17.1,ravitejapolu@csa-india.org
+"""MP-2024-000373""",03-09-2024,September,RAV072,Ravi Teja Polu,2024,38:06.0,ravitejapolu@csa-india.org
+"""MP-2024-000408""",07-10-2024,October,RAV072,Ravi Teja Polu,2024,59:24.8,ravitejapolu@csa-india.org
+"""MP-2023-000021""",31-10-2023,November,RAV035,Ravi Varma,2023,30:59.7,ravivarma@csa-india.org
+"""MP-2024-000133""",06-03-2024,March,RAV035,Ravi Varma,2024,16:23.1,ravivarma@csa-india.org
+"""MP-2024-000241""",31-05-2024,June,RAV035,Ravi Varma,2024,58:48.1,ravivarma@csa-india.org
+"""MP-2024-000304""",25-07-2024,August,RAV035,Ravi Varma,2024,30:30.0,ravivarma@csa-india.org
+"""MP-2024-000380""",09-09-2024,September,RAV035,Ravi Varma,2024,57:15.7,ravivarma@csa-india.org
+"""MP-2024-000383""",26-09-2024,October,RAV035,Ravi Varma,2024,52:03.0,ravivarma@csa-india.org
+"""MP-2024-000416""",28-10-2024,November,RAV035,Ravi Varma,2024,56:23.8,ravivarma@csa-india.org
+"""MP-2024-000455""",02-12-2024,December,RAV035,Ravi Varma,2024,18:15.5,ravivarma@csa-india.org
+"""MP-2023-000044""",01-11-2023,November,SAN070,S Anitha,2023,20:35.3,anithas@csa-india.org
+"""MP-2023-000094""",29-11-2023,December,SAN070,S Anitha,2023,21:22.7,anithas@csa-india.org
+"""MP-2023-000175""",29-12-2023,December,SAN070,S Anitha,2023,09:44.2,anithas@csa-india.org
+"""MP-2023-000176""",29-12-2023,January,SAN070,S Anitha,2024,26:47.8,anithas@csa-india.org
+"""MP-2024-000062""",31-01-2024,February,SAN070,S Anitha,2024,47:17.1,anithas@csa-india.org
+"""MP-2024-000125""",27-02-2024,February,SAN070,S Anitha,2024,42:34.2,anithas@csa-india.org
+"""MP-2024-000140""",27-03-2024,April,SAN070,S Anitha,2024,23:13.4,anithas@csa-india.org
+"""MP-2024-000154""",29-04-2024,May,SAN070,S Anitha,2024,34:36.7,anithas@csa-india.org
+"""MP-2024-000236""",29-05-2024,June,SAN070,S Anitha,2024,53:12.4,anithas@csa-india.org
+"""MP-2024-000283""",27-06-2024,July,SAN070,S Anitha,2024,18:20.7,anithas@csa-india.org
+"""MP-2024-000329""",31-07-2024,August,SAN070,S Anitha,2024,29:47.0,anithas@csa-india.org
+"""MP-2024-000361""",27-08-2024,September,SAN070,S Anitha,2024,08:50.3,anithas@csa-india.org
+"""MP-2024-000392""",28-09-2024,October,SAN070,S Anitha,2024,22:10.2,anithas@csa-india.org
+"""MP-2024-000431""",30-10-2024,November,SAN070,S Anitha,2024,59:10.2,anithas@csa-india.org
+"""MP-2024-000432""",30-10-2024,November,SAN070,S Anitha,2024,23:51.9,anithas@csa-india.org
+"""MP-2023-000005""",31-10-2023,November,SAI091,Sai Prasad Duvuru,2023,06:12.0,sai@csa-india.org
+"""MP-2023-000089""",28-11-2023,December,SAI091,Sai Prasad Duvuru,2023,41:48.3,sai@csa-india.org
+"""MP-2023-000177""",29-12-2023,January,SAI091,Sai Prasad Duvuru,2024,27:34.9,sai@csa-india.org
+"""MP-2024-000048""",26-01-2024,February,SAI091,Sai Prasad Duvuru,2024,15:35.6,sai@csa-india.org
+"""MP-2024-000159""",30-04-2024,May,SAI091,Sai Prasad Duvuru,2024,53:21.6,sai@csa-india.org
+"""MP-2024-000200""",28-05-2024,June,SAI091,Sai Prasad Duvuru,2024,35:20.5,sai@csa-india.org
+"""MP-2024-000286""",26-06-2024,July,SAI091,Sai Prasad Duvuru,2024,24:30.7,sai@csa-india.org
+"""MP-2024-000325""",26-07-2024,August,SAI091,Sai Prasad Duvuru,2024,29:51.7,sai@csa-india.org
+"""MP-2024-000362""",26-08-2024,September,SAI091,Sai Prasad Duvuru,2024,50:31.3,sai@csa-india.org
+"""MP-2024-000456""",03-12-2024,December,SAI091,Sai Prasad Duvuru,2024,08:49.3,sai@csa-india.org
+"""MP-2024-000458""",03-12-2024,December,SAI091,Sai Prasad Duvuru,2024,22:13.2,sai@csa-india.org
+"""MP-2025-000002""",26-12-2024,January,SAI091,Sai Prasad Duvuru,2025,24:30.5,sai@csa-india.org
+"""MP-2024-000033""",03-01-2024,January,SAN025,Santhosh Kumar,2024,33:21.9,santhoshkumar@csa-india.org
+"""MP-2024-000043""",17-01-2024,February,SAN025,Santhosh Kumar,2024,27:38.4,santhoshkumar@csa-india.org
+"""MP-2024-000044""",17-01-2024,March,SAN025,Santhosh Kumar,2024,29:43.2,santhoshkumar@csa-india.org
+"""MP-2024-000280""",27-06-2024,July,SAN025,Santhosh Kumar,2024,32:32.9,santhoshkumar@csa-india.org
+"""MP-2024-000331""",01-08-2024,August,SAN025,Santhosh Kumar,2024,50:51.7,santhoshkumar@csa-india.org
+"""MP-2024-000353""",25-08-2024,September,SAN025,Santhosh Kumar,2024,37:44.2,santhoshkumar@csa-india.org
+"""MP-2024-000382""",25-09-2024,September,SAN025,Santhosh Kumar,2024,39:55.2,santhoshkumar@csa-india.org
+"""MP-2024-000411""",25-10-2024,November,SAN025,Santhosh Kumar,2024,07:48.3,santhoshkumar@csa-india.org
+"""MP-2024-000305""",25-07-2024,August,SHI031,Shiva  Bejjanki,2024,47:48.7,shivabejjenki@csa-india.org
+"""MP-2024-000372""",25-08-2024,September,SHI031,Shiva  Bejjanki,2024,50:13.8,shivabejjenki@csa-india.org
+"""MP-2024-000381""",25-09-2024,October,SHI031,Shiva  Bejjanki,2024,37:12.0,shivabejjenki@csa-india.org
+"""MP-2024-000412""",25-10-2024,November,SHI031,Shiva  Bejjanki,2024,32:49.2,shivabejjenki@csa-india.org
+"""MP-2024-000437""",25-11-2024,December,SHI031,Shiva  Bejjanki,2024,20:52.6,shivabejjenki@csa-india.org
+"""MP-2024-000468""",28-12-2024,January,SHI031,Shiva  Bejjanki,2025,13:25.3,shivabejjenki@csa-india.org
+"""MP-2025-000018""",26-01-2025,February,SHI031,Shiva  Bejjanki,2025,28:49.8,shivabejjenki@csa-india.org
+"""MP-2025-000026""",26-02-2025,March,SHI031,Shiva  Bejjanki,2025,49:19.9,shivabejjenki@csa-india.org
+"""MP-2024-000349""",08-08-2024,August,SHI109,Shiva Krishna V,2024,59:49.2,shivakrishna@csa-india.org
+"""MP-2024-000375""",01-09-2024,September,SHI109,Shiva Krishna V,2024,04:00.8,shivakrishna@csa-india.org
+"""MP-2024-000398""",02-10-2024,October,SHI109,Shiva Krishna V,2024,16:05.9,shivakrishna@csa-india.org
+"""MP-2024-000413""",26-10-2024,November,SHI109,Shiva Krishna V,2024,06:38.2,shivakrishna@csa-india.org
+"""MP-2023-000077""",06-11-2023,November,SIV090,Siva Sankaraiah,2023,40:53.4,sankaraiah@csa-india.org
+"""MP-2023-000118""",26-11-2023,November,SIV090,Siva Sankaraiah,2023,44:43.9,sankaraiah@csa-india.org
+"""MP-2023-000119""",27-11-2023,November,SIV090,Siva Sankaraiah,2023,48:32.6,sankaraiah@csa-india.org
+"""MP-2023-000146""",28-11-2023,November,SIV090,Siva Sankaraiah,2023,49:54.8,sankaraiah@csa-india.org
+"""MP-2023-000147""",29-11-2023,November,SIV090,Siva Sankaraiah,2023,53:03.3,sankaraiah@csa-india.org
+"""MP-2023-000148""",01-12-2023,November,SIV090,Siva Sankaraiah,2023,57:45.7,sankaraiah@csa-india.org
+"""MP-2023-000149""",01-12-2023,December,SIV090,Siva Sankaraiah,2023,01:20.7,sankaraiah@csa-india.org
+"""MP-2023-000150""",02-12-2023,December,SIV090,Siva Sankaraiah,2023,03:28.0,sankaraiah@csa-india.org
+"""MP-2023-000151""",04-12-2023,December,SIV090,Siva Sankaraiah,2023,05:57.5,sankaraiah@csa-india.org
+"""MP-2023-000157""",05-12-2023,December,SIV090,Siva Sankaraiah,2023,23:40.9,sankaraiah@csa-india.org
+"""MP-2023-000158""",06-12-2023,December,SIV090,Siva Sankaraiah,2023,26:10.9,sankaraiah@csa-india.org
+"""MP-2023-000159""",07-12-2023,December,SIV090,Siva Sankaraiah,2023,29:37.0,sankaraiah@csa-india.org
+"""MP-2023-000160""",08-12-2023,December,SIV090,Siva Sankaraiah,2023,31:32.7,sankaraiah@csa-india.org
+"""MP-2023-000161""",09-12-2023,December,SIV090,Siva Sankaraiah,2023,33:34.1,sankaraiah@csa-india.org
+"""MP-2023-000162""",11-12-2023,December,SIV090,Siva Sankaraiah,2023,49:34.0,sankaraiah@csa-india.org
+"""MP-2023-000163""",12-12-2023,December,SIV090,Siva Sankaraiah,2023,14:32.8,sankaraiah@csa-india.org
+"""MP-2023-000164""",13-12-2023,December,SIV090,Siva Sankaraiah,2023,17:28.3,sankaraiah@csa-india.org
+"""MP-2023-000165""",14-12-2023,December,SIV090,Siva Sankaraiah,2023,22:36.5,sankaraiah@csa-india.org
+"""MP-2023-000166""",15-12-2023,December,SIV090,Siva Sankaraiah,2023,24:31.2,sankaraiah@csa-india.org
+"""MP-2024-000002""",26-12-2023,December,SIV090,Siva Sankaraiah,2023,56:58.3,sankaraiah@csa-india.org
+"""MP-2024-000003""",27-12-2023,December,SIV090,Siva Sankaraiah,2023,00:06.7,sankaraiah@csa-india.org
+"""MP-2024-000004""",28-12-2023,December,SIV090,Siva Sankaraiah,2023,04:43.8,sankaraiah@csa-india.org
+"""MP-2024-000005""",29-12-2023,December,SIV090,Siva Sankaraiah,2023,07:00.3,sankaraiah@csa-india.org
+"""MP-2024-000006""",30-12-2023,December,SIV090,Siva Sankaraiah,2023,09:26.8,sankaraiah@csa-india.org
+"""MP-2024-000007""",02-01-2024,January,SIV090,Siva Sankaraiah,2024,13:28.0,sankaraiah@csa-india.org
+"""MP-2024-000008""",03-01-2024,January,SIV090,Siva Sankaraiah,2024,17:02.2,sankaraiah@csa-india.org
+"""MP-2024-000009""",04-01-2024,January,SIV090,Siva Sankaraiah,2024,24:49.3,sankaraiah@csa-india.org
+"""MP-2024-000010""",05-01-2024,January,SIV090,Siva Sankaraiah,2024,26:19.3,sankaraiah@csa-india.org
+"""MP-2024-000011""",06-01-2024,January,SIV090,Siva Sankaraiah,2024,28:08.1,sankaraiah@csa-india.org
+"""MP-2024-000012""",08-01-2024,January,SIV090,Siva Sankaraiah,2024,29:40.9,sankaraiah@csa-india.org
+"""MP-2024-000013""",09-01-2024,January,SIV090,Siva Sankaraiah,2024,31:06.7,sankaraiah@csa-india.org
+"""MP-2024-000014""",10-01-2024,January,SIV090,Siva Sankaraiah,2024,33:33.9,sankaraiah@csa-india.org
+"""MP-2024-000015""",11-01-2024,January,SIV090,Siva Sankaraiah,2024,36:00.5,sankaraiah@csa-india.org
+"""MP-2024-000016""",12-01-2024,January,SIV090,Siva Sankaraiah,2024,37:40.3,sankaraiah@csa-india.org
+"""MP-2024-000017""",13-01-2024,January,SIV090,Siva Sankaraiah,2024,39:42.5,sankaraiah@csa-india.org
+"""MP-2024-000018""",15-01-2024,February,SIV090,Siva Sankaraiah,2024,41:30.4,sankaraiah@csa-india.org
+"""MP-2024-000019""",16-01-2024,January,SIV090,Siva Sankaraiah,2024,43:08.6,sankaraiah@csa-india.org
+"""MP-2024-000020""",17-01-2024,January,SIV090,Siva Sankaraiah,2024,44:17.3,sankaraiah@csa-india.org
+"""MP-2024-000021""",18-01-2024,January,SIV090,Siva Sankaraiah,2024,45:55.4,sankaraiah@csa-india.org
+"""MP-2024-000022""",19-01-2024,January,SIV090,Siva Sankaraiah,2024,47:49.2,sankaraiah@csa-india.org
+"""MP-2024-000023""",20-01-2024,January,SIV090,Siva Sankaraiah,2024,49:18.8,sankaraiah@csa-india.org
+"""MP-2024-000024""",22-01-2024,January,SIV090,Siva Sankaraiah,2024,50:55.1,sankaraiah@csa-india.org
+"""MP-2024-000025""",23-01-2024,January,SIV090,Siva Sankaraiah,2024,52:35.3,sankaraiah@csa-india.org
+"""MP-2024-000026""",24-01-2024,January,SIV090,Siva Sankaraiah,2024,53:46.9,sankaraiah@csa-india.org
+"""MP-2024-000027""",25-01-2024,January,SIV090,Siva Sankaraiah,2024,55:03.6,sankaraiah@csa-india.org
+"""MP-2024-000064""",25-01-2024,January,SIV090,Siva Sankaraiah,2024,46:40.5,sankaraiah@csa-india.org
+"""MP-2024-000065""",27-01-2024,January,SIV090,Siva Sankaraiah,2024,01:12.0,sankaraiah@csa-india.org
+"""MP-2024-000066""",29-01-2024,January,SIV090,Siva Sankaraiah,2024,06:15.0,sankaraiah@csa-india.org
+"""MP-2024-000067""",30-01-2024,January,SIV090,Siva Sankaraiah,2024,11:08.5,sankaraiah@csa-india.org
+"""MP-2024-000068""",31-01-2024,January,SIV090,Siva Sankaraiah,2024,15:48.2,sankaraiah@csa-india.org
+"""MP-2024-000069""",01-02-2024,February,SIV090,Siva Sankaraiah,2024,18:24.0,sankaraiah@csa-india.org
+"""MP-2024-000073""",02-02-2024,February,SIV090,Siva Sankaraiah,2024,29:47.9,sankaraiah@csa-india.org
+"""MP-2024-000074""",03-02-2024,February,SIV090,Siva Sankaraiah,2024,32:06.4,sankaraiah@csa-india.org
+"""MP-2024-000075""",05-02-2024,February,SIV090,Siva Sankaraiah,2024,35:20.2,sankaraiah@csa-india.org
+"""MP-2024-000076""",06-02-2024,February,SIV090,Siva Sankaraiah,2024,37:36.9,sankaraiah@csa-india.org
+"""MP-2024-000077""",07-02-2024,February,SIV090,Siva Sankaraiah,2024,39:27.3,sankaraiah@csa-india.org
+"""MP-2024-000078""",08-02-2024,February,SIV090,Siva Sankaraiah,2024,40:40.0,sankaraiah@csa-india.org
+"""MP-2024-000079""",09-02-2024,February,SIV090,Siva Sankaraiah,2024,41:47.6,sankaraiah@csa-india.org
+"""MP-2024-000080""",10-02-2024,February,SIV090,Siva Sankaraiah,2024,43:29.7,sankaraiah@csa-india.org
+"""MP-2024-000081""",12-02-2024,February,SIV090,Siva Sankaraiah,2024,44:49.7,sankaraiah@csa-india.org
+"""MP-2024-000082""",13-02-2024,February,SIV090,Siva Sankaraiah,2024,46:44.1,sankaraiah@csa-india.org
+"""MP-2024-000083""",14-02-2024,February,SIV090,Siva Sankaraiah,2024,48:39.9,sankaraiah@csa-india.org
+"""MP-2024-000084""",15-02-2024,February,SIV090,Siva Sankaraiah,2024,49:45.4,sankaraiah@csa-india.org
+"""MP-2024-000085""",16-02-2024,February,SIV090,Siva Sankaraiah,2024,51:20.5,sankaraiah@csa-india.org
+"""MP-2024-000086""",17-02-2024,February,SIV090,Siva Sankaraiah,2024,53:31.0,sankaraiah@csa-india.org
+"""MP-2024-000087""",19-02-2024,February,SIV090,Siva Sankaraiah,2024,55:07.8,sankaraiah@csa-india.org
+"""MP-2024-000088""",20-02-2024,February,SIV090,Siva Sankaraiah,2024,56:28.3,sankaraiah@csa-india.org
+"""MP-2024-000089""",21-02-2024,February,SIV090,Siva Sankaraiah,2024,57:47.9,sankaraiah@csa-india.org
+"""MP-2024-000090""",22-02-2024,February,SIV090,Siva Sankaraiah,2024,59:19.6,sankaraiah@csa-india.org
+"""MP-2024-000091""",23-02-2024,February,SIV090,Siva Sankaraiah,2024,00:50.2,sankaraiah@csa-india.org
+"""MP-2024-000092""",25-03-2024,February,SIV090,Siva Sankaraiah,2024,02:21.8,sankaraiah@csa-india.org
+"""MP-2024-000097""",26-02-2024,February,SIV090,Siva Sankaraiah,2024,56:32.0,sankaraiah@csa-india.org
+"""MP-2024-000098""",27-02-2024,February,SIV090,Siva Sankaraiah,2024,03:32.9,sankaraiah@csa-india.org
+"""MP-2024-000099""",28-02-2024,February,SIV090,Siva Sankaraiah,2024,05:41.0,sankaraiah@csa-india.org
+"""MP-2024-000100""",01-03-2024,February,SIV090,Siva Sankaraiah,2024,07:11.0,sankaraiah@csa-india.org
+"""MP-2024-000101""",29-02-2024,February,SIV090,Siva Sankaraiah,2024,10:44.2,sankaraiah@csa-india.org
+"""MP-2024-000102""",01-03-2024,March,SIV090,Siva Sankaraiah,2024,15:01.2,sankaraiah@csa-india.org
+"""MP-2024-000103""",02-03-2024,March,SIV090,Siva Sankaraiah,2024,18:00.4,sankaraiah@csa-india.org
+"""MP-2024-000104""",04-03-2024,March,SIV090,Siva Sankaraiah,2024,32:10.0,sankaraiah@csa-india.org
+"""MP-2024-000106""",05-02-2024,March,SIV090,Siva Sankaraiah,2024,32:02.9,sankaraiah@csa-india.org
+"""MP-2024-000107""",06-02-2024,March,SIV090,Siva Sankaraiah,2024,50:14.9,sankaraiah@csa-india.org
+"""MP-2024-000108""",07-02-2024,March,SIV090,Siva Sankaraiah,2024,52:48.2,sankaraiah@csa-india.org
+"""MP-2024-000109""",08-03-2024,March,SIV090,Siva Sankaraiah,2024,55:54.3,sankaraiah@csa-india.org
+"""MP-2024-000110""",09-03-2024,March,SIV090,Siva Sankaraiah,2024,57:41.1,sankaraiah@csa-india.org
+"""MP-2024-000111""",11-03-2024,March,SIV090,Siva Sankaraiah,2024,59:19.7,sankaraiah@csa-india.org
+"""MP-2024-000112""",12-03-2024,March,SIV090,Siva Sankaraiah,2024,01:31.3,sankaraiah@csa-india.org
+"""MP-2024-000113""",13-03-2024,March,SIV090,Siva Sankaraiah,2024,03:40.6,sankaraiah@csa-india.org
+"""MP-2024-000114""",14-03-2024,March,SIV090,Siva Sankaraiah,2024,05:05.0,sankaraiah@csa-india.org
+"""MP-2024-000115""",15-03-2024,March,SIV090,Siva Sankaraiah,2024,06:19.0,sankaraiah@csa-india.org
+"""MP-2024-000116""",16-03-2024,March,SIV090,Siva Sankaraiah,2024,08:26.9,sankaraiah@csa-india.org
+"""MP-2024-000117""",18-03-2024,March,SIV090,Siva Sankaraiah,2024,09:47.2,sankaraiah@csa-india.org
+"""MP-2024-000118""",19-03-2024,March,SIV090,Siva Sankaraiah,2024,11:12.1,sankaraiah@csa-india.org
+"""MP-2024-000119""",20-03-2024,March,SIV090,Siva Sankaraiah,2024,17:39.0,sankaraiah@csa-india.org
+"""MP-2024-000120""",21-03-2024,March,SIV090,Siva Sankaraiah,2024,19:10.0,sankaraiah@csa-india.org
+"""MP-2024-000121""",22-03-2024,March,SIV090,Siva Sankaraiah,2024,20:33.5,sankaraiah@csa-india.org
+"""MP-2024-000122""",23-03-2024,March,SIV090,Siva Sankaraiah,2024,21:35.8,sankaraiah@csa-india.org
+"""MP-2024-000123""",25-03-2024,March,SIV090,Siva Sankaraiah,2024,22:49.0,sankaraiah@csa-india.org
+"""MP-2024-000164""",25-04-2024,April,SIV090,Siva Sankaraiah,2024,58:14.0,sankaraiah@csa-india.org
+"""MP-2024-000165""",26-04-2024,April,SIV090,Siva Sankaraiah,2024,59:57.8,sankaraiah@csa-india.org
+"""MP-2024-000166""",27-04-2024,April,SIV090,Siva Sankaraiah,2024,01:13.9,sankaraiah@csa-india.org
+"""MP-2024-000167""",28-04-2024,April,SIV090,Siva Sankaraiah,2024,02:39.7,sankaraiah@csa-india.org
+"""MP-2024-000168""",29-04-2024,April,SIV090,Siva Sankaraiah,2024,03:55.5,sankaraiah@csa-india.org
+"""MP-2024-000170""",30-04-2024,April,SIV090,Siva Sankaraiah,2024,07:48.5,sankaraiah@csa-india.org
+"""MP-2024-000171""",01-05-2024,May,SIV090,Siva Sankaraiah,2024,10:30.9,sankaraiah@csa-india.org
+"""MP-2024-000172""",02-05-2024,May,SIV090,Siva Sankaraiah,2024,17:39.6,sankaraiah@csa-india.org
+"""MP-2024-000175""",03-05-2024,May,SIV090,Siva Sankaraiah,2024,21:05.6,sankaraiah@csa-india.org
+"""MP-2024-000176""",04-05-2024,May,SIV090,Siva Sankaraiah,2024,23:07.8,sankaraiah@csa-india.org
+"""MP-2024-000179""",06-05-2024,May,SIV090,Siva Sankaraiah,2024,03:40.7,sankaraiah@csa-india.org
+"""MP-2024-000180""",07-05-2024,May,SIV090,Siva Sankaraiah,2024,06:18.2,sankaraiah@csa-india.org
+"""MP-2024-000182""",08-05-2024,May,SIV090,Siva Sankaraiah,2024,09:33.3,sankaraiah@csa-india.org
+"""MP-2024-000183""",09-05-2024,May,SIV090,Siva Sankaraiah,2024,11:18.2,sankaraiah@csa-india.org
+"""MP-2024-000184""",10-05-2024,May,SIV090,Siva Sankaraiah,2024,15:26.6,sankaraiah@csa-india.org
+"""MP-2024-000195""",25-05-2024,May,SIV090,Siva Sankaraiah,2024,26:12.7,sankaraiah@csa-india.org
+"""MP-2024-000196""",27-05-2024,May,SIV090,Siva Sankaraiah,2024,30:45.5,sankaraiah@csa-india.org
+"""MP-2024-000197""",28-05-2024,May,SIV090,Siva Sankaraiah,2024,34:42.2,sankaraiah@csa-india.org
+"""MP-2024-000206""",28-05-2024,June,SIV090,Siva Sankaraiah,2024,40:10.5,sankaraiah@csa-india.org
+"""MP-2024-000207""",29-05-2024,May,SIV090,Siva Sankaraiah,2024,47:33.1,sankaraiah@csa-india.org
+"""MP-2024-000208""",30-05-2024,May,SIV090,Siva Sankaraiah,2024,51:48.1,sankaraiah@csa-india.org
+"""MP-2024-000209""",30-05-2024,May,SIV090,Siva Sankaraiah,2024,55:07.4,sankaraiah@csa-india.org
+"""MP-2024-000211""",31-05-2024,May,SIV090,Siva Sankaraiah,2024,04:28.9,sankaraiah@csa-india.org
+"""MP-2024-000212""",01-06-2024,June,SIV090,Siva Sankaraiah,2024,16:52.4,sankaraiah@csa-india.org
+"""MP-2024-000213""",03-06-2024,June,SIV090,Siva Sankaraiah,2024,18:53.7,sankaraiah@csa-india.org
+"""MP-2024-000214""",04-06-2024,June,SIV090,Siva Sankaraiah,2024,23:09.4,sankaraiah@csa-india.org
+"""MP-2024-000215""",05-06-2024,June,SIV090,Siva Sankaraiah,2024,27:50.3,sankaraiah@csa-india.org
+"""MP-2024-000216""",06-06-2024,June,SIV090,Siva Sankaraiah,2024,29:18.0,sankaraiah@csa-india.org
+"""MP-2024-000217""",07-06-2024,June,SIV090,Siva Sankaraiah,2024,30:42.5,sankaraiah@csa-india.org
+"""MP-2024-000218""",08-06-2024,June,SIV090,Siva Sankaraiah,2024,38:29.2,sankaraiah@csa-india.org
+"""MP-2024-000219""",10-06-2024,June,SIV090,Siva Sankaraiah,2024,11:25.8,sankaraiah@csa-india.org
+"""MP-2024-000220""",11-06-2024,June,SIV090,Siva Sankaraiah,2024,12:47.0,sankaraiah@csa-india.org
+"""MP-2024-000221""",12-06-2024,June,SIV090,Siva Sankaraiah,2024,14:26.7,sankaraiah@csa-india.org
+"""MP-2024-000222""",13-06-2024,June,SIV090,Siva Sankaraiah,2024,19:02.8,sankaraiah@csa-india.org
+"""MP-2024-000223""",14-06-2024,June,SIV090,Siva Sankaraiah,2024,20:21.4,sankaraiah@csa-india.org
+"""MP-2024-000224""",15-06-2024,June,SIV090,Siva Sankaraiah,2024,21:54.0,sankaraiah@csa-india.org
+"""MP-2024-000225""",17-06-2024,June,SIV090,Siva Sankaraiah,2024,23:24.1,sankaraiah@csa-india.org
+"""MP-2024-000226""",18-06-2024,June,SIV090,Siva Sankaraiah,2024,25:23.8,sankaraiah@csa-india.org
+"""MP-2024-000227""",19-06-2024,June,SIV090,Siva Sankaraiah,2024,27:23.1,sankaraiah@csa-india.org
+"""MP-2024-000228""",20-06-2024,June,SIV090,Siva Sankaraiah,2024,28:44.1,sankaraiah@csa-india.org
+"""MP-2024-000229""",21-06-2024,June,SIV090,Siva Sankaraiah,2024,30:04.2,sankaraiah@csa-india.org
+"""MP-2024-000230""",22-06-2024,June,SIV090,Siva Sankaraiah,2024,31:23.3,sankaraiah@csa-india.org
+"""MP-2024-000231""",24-06-2024,June,SIV090,Siva Sankaraiah,2024,33:09.2,sankaraiah@csa-india.org
+"""MP-2024-000232""",25-06-2024,June,SIV090,Siva Sankaraiah,2024,34:53.3,sankaraiah@csa-india.org
+"""MP-2024-000251""",25-06-2024,June,SIV090,Siva Sankaraiah,2024,49:25.9,sankaraiah@csa-india.org
+"""MP-2024-000252""",26-06-2024,June,SIV090,Siva Sankaraiah,2024,55:06.6,sankaraiah@csa-india.org
+"""MP-2024-000253""",27-06-2024,June,SIV090,Siva Sankaraiah,2024,57:04.6,sankaraiah@csa-india.org
+"""MP-2024-000254""",28-06-2024,June,SIV090,Siva Sankaraiah,2024,59:15.7,sankaraiah@csa-india.org
+"""MP-2024-000255""",29-06-2024,June,SIV090,Siva Sankaraiah,2024,01:28.1,sankaraiah@csa-india.org
+"""MP-2024-000256""",01-07-2024,July,SIV090,Siva Sankaraiah,2024,03:25.0,sankaraiah@csa-india.org
+"""MP-2024-000257""",02-07-2024,July,SIV090,Siva Sankaraiah,2024,05:20.4,sankaraiah@csa-india.org
+"""MP-2024-000258""",03-07-2024,July,SIV090,Siva Sankaraiah,2024,07:30.5,sankaraiah@csa-india.org
+"""MP-2024-000259""",04-07-2024,July,SIV090,Siva Sankaraiah,2024,10:12.6,sankaraiah@csa-india.org
+"""MP-2024-000262""",05-07-2024,July,SIV090,Siva Sankaraiah,2024,17:07.4,sankaraiah@csa-india.org
+"""MP-2024-000263""",06-07-2024,July,SIV090,Siva Sankaraiah,2024,18:44.7,sankaraiah@csa-india.org
+"""MP-2024-000264""",08-07-2024,July,SIV090,Siva Sankaraiah,2024,20:24.8,sankaraiah@csa-india.org
+"""MP-2024-000265""",09-07-2024,July,SIV090,Siva Sankaraiah,2024,23:08.3,sankaraiah@csa-india.org
+"""MP-2024-000266""",10-07-2024,July,SIV090,Siva Sankaraiah,2024,24:20.6,sankaraiah@csa-india.org
+"""MP-2024-000267""",11-07-2024,July,SIV090,Siva Sankaraiah,2024,25:25.8,sankaraiah@csa-india.org
+"""MP-2024-000268""",12-07-2024,July,SIV090,Siva Sankaraiah,2024,27:36.1,sankaraiah@csa-india.org
+"""MP-2024-000269""",13-07-2024,July,SIV090,Siva Sankaraiah,2024,29:30.9,sankaraiah@csa-india.org
+"""MP-2024-000270""",15-07-2024,July,SIV090,Siva Sankaraiah,2024,31:30.1,sankaraiah@csa-india.org
+"""MP-2024-000271""",16-07-2024,July,SIV090,Siva Sankaraiah,2024,54:26.4,sankaraiah@csa-india.org
+"""MP-2024-000272""",17-07-2024,July,SIV090,Siva Sankaraiah,2024,56:31.3,sankaraiah@csa-india.org
+"""MP-2024-000273""",18-07-2024,July,SIV090,Siva Sankaraiah,2024,58:27.8,sankaraiah@csa-india.org
+"""MP-2024-000274""",19-07-2024,July,SIV090,Siva Sankaraiah,2024,59:44.7,sankaraiah@csa-india.org
+"""MP-2024-000275""",20-07-2024,July,SIV090,Siva Sankaraiah,2024,01:28.7,sankaraiah@csa-india.org
+"""MP-2024-000276""",22-07-2024,July,SIV090,Siva Sankaraiah,2024,04:37.5,sankaraiah@csa-india.org
+"""MP-2024-000277""",23-07-2024,July,SIV090,Siva Sankaraiah,2024,06:30.2,sankaraiah@csa-india.org
+"""MP-2024-000278""",24-07-2024,July,SIV090,Siva Sankaraiah,2024,07:32.0,sankaraiah@csa-india.org
+"""MP-2024-000279""",25-07-2024,July,SIV090,Siva Sankaraiah,2024,08:26.6,sankaraiah@csa-india.org
+"""MP-2024-000314""",25-07-2024,July,SIV090,Siva Sankaraiah,2024,34:21.8,sankaraiah@csa-india.org
+"""MP-2024-000315""",26-07-2024,July,SIV090,Siva Sankaraiah,2024,37:14.3,sankaraiah@csa-india.org
+"""MP-2024-000316""",27-07-2024,July,SIV090,Siva Sankaraiah,2024,39:41.7,sankaraiah@csa-india.org
+"""MP-2024-000317""",29-07-2024,July,SIV090,Siva Sankaraiah,2024,41:59.7,sankaraiah@csa-india.org
+"""MP-2024-000319""",29-07-2024,July,SIV090,Siva Sankaraiah,2024,34:47.2,sankaraiah@csa-india.org
+"""MP-2024-000320""",30-07-2024,July,SIV090,Siva Sankaraiah,2024,36:09.5,sankaraiah@csa-india.org
+"""MP-2024-000321""",31-07-2024,July,SIV090,Siva Sankaraiah,2024,46:24.9,sankaraiah@csa-india.org
+"""MP-2023-000050""",01-11-2023,November,SRE114,Sreenu Lachanolla,2023,08:17.9,sreenu@csa-india.org
+"""MP-2024-000352""",01-08-2024,August,SRE114,Sreenu Lachanolla,2024,01:36.3,sreenu@csa-india.org
+"""MP-2024-000369""",01-09-2024,September,SRE114,Sreenu Lachanolla,2024,29:03.1,sreenu@csa-india.org
+"""MP-2024-000135""",07-03-2024,March,SRI060,Sridhar Vemula,2024,58:57.1,sridhar@csa-india.org
+"""MP-2024-000136""",07-03-2024,March,SRI060,Sridhar Vemula,2024,28:01.0,sridhar@csa-india.org
+"""MP-2023-000016""",31-10-2023,November,SRI102,Srikanth A,2023,05:08.7,srikanth@csa-india.org
+"""MP-2023-000093""",29-11-2023,December,SRI102,Srikanth A,2023,32:50.3,srikanth@csa-india.org
+"""MP-2024-000057""",31-01-2024,February,SRI102,Srikanth A,2024,18:05.3,srikanth@csa-india.org
+"""MP-2024-000137""",01-03-2024,March,SRI102,Srikanth A,2024,38:26.4,srikanth@csa-india.org
+"""MP-2024-000139""",27-03-2024,April,SRI102,Srikanth A,2024,01:45.7,srikanth@csa-india.org
+"""MP-2024-000155""",29-04-2024,May,SRI102,Srikanth A,2024,41:53.2,srikanth@csa-india.org
+"""MP-2024-000233""",29-05-2024,June,SRI102,Srikanth A,2024,33:06.8,srikanth@csa-india.org
+"""MP-2024-000297""",01-07-2024,July,SRI102,Srikanth A,2024,24:40.9,srikanth@csa-india.org
+"""MP-2024-000338""",01-08-2024,August,SRI102,Srikanth A,2024,01:30.6,srikanth@csa-india.org
+"""MP-2024-000355""",26-08-2024,September,SRI102,Srikanth A,2024,57:38.0,srikanth@csa-india.org
+"""MP-2024-000387""",27-09-2024,October,SRI102,Srikanth A,2024,43:29.8,srikanth@csa-india.org
+"""MP-2024-000415""",27-10-2024,November,SRI102,Srikanth A,2024,39:51.9,srikanth@csa-india.org
+"""MP-2024-000453""",27-12-2024,December,SRI102,Srikanth A,2024,42:16.5,srikanth@csa-india.org
+"""MP-2025-000008""",03-01-2024,January,SRI102,Srikanth A,2025,29:25.2,srikanth@csa-india.org
+"""MP-2025-000023""",01-02-2024,February,SRI102,Srikanth A,2025,40:17.9,srikanth@csa-india.org
+"""MP-2023-000033""",06-11-2023,November,SVA088,SV Ashok Kumar,2023,07:58.3,ashokkumar@csa-india.org
+"""MP-2023-000097""",01-12-2023,December,SVA088,SV Ashok Kumar,2023,55:23.2,ashokkumar@csa-india.org
+"""MP-2023-000179""",29-12-2023,January,SVA088,SV Ashok Kumar,2024,44:28.0,ashokkumar@csa-india.org
+"""MP-2024-000059""",31-01-2024,February,SVA088,SV Ashok Kumar,2024,18:27.4,ashokkumar@csa-india.org
+"""MP-2024-000095""",26-02-2024,March,SVA088,SV Ashok Kumar,2024,12:14.2,ashokkumar@csa-india.org
+"""MP-2024-000186""",01-05-2024,May,SVA088,SV Ashok Kumar,2024,38:44.6,ashokkumar@csa-india.org
+"""MP-2024-000199""",28-05-2024,June,SVA088,SV Ashok Kumar,2024,30:57.9,ashokkumar@csa-india.org
+"""MP-2024-000261""",26-06-2024,July,SVA088,SV Ashok Kumar,2024,09:16.3,ashokkumar@csa-india.org
+"""MP-2024-000308""",28-07-2024,August,SVA088,SV Ashok Kumar,2024,31:01.9,ashokkumar@csa-india.org
+"""MP-2024-000358""",26-08-2024,September,SVA088,SV Ashok Kumar,2024,47:12.3,ashokkumar@csa-india.org
+"""MP-2024-000390""",28-09-2024,October,SVA088,SV Ashok Kumar,2024,33:58.7,ashokkumar@csa-india.org
+"""MP-2023-000115""",27-11-2023,November,TOB078,T Obulesu,2023,10:02.9,obulesht@csa-india.org
+"""MP-2023-000116""",28-11-2023,November,TOB078,T Obulesu,2023,12:02.1,obulesht@csa-india.org
+"""MP-2024-000153""",26-04-2024,April,TOB078,T Obulesu,2024,55:36.1,obulesht@csa-india.org
+"""MP-2024-000193""",26-05-2024,June,TOB078,T Obulesu,2024,14:39.4,obulesht@csa-india.org
+"""MP-2024-000250""",26-06-2024,July,TOB078,T Obulesu,2024,03:30.4,obulesht@csa-india.org
+"""MP-2024-000307""",26-07-2024,August,TOB078,T Obulesu,2024,47:57.2,obulesht@csa-india.org
+"""MP-2024-000354""",26-08-2024,September,TOB078,T Obulesu,2024,49:14.1,obulesht@csa-india.org
+"""MP-2024-000384""",26-09-2024,September,TOB078,T Obulesu,2024,16:06.7,obulesht@csa-india.org
+"""MP-2024-000385""",26-09-2024,October,TOB078,T Obulesu,2024,33:04.9,obulesht@csa-india.org
+"""MP-2024-000386""",26-09-2024,October,TOB078,T Obulesu,2024,09:48.6,obulesht@csa-india.org
+"""MP-2024-000426""",28-10-2024,November,TOB078,T Obulesu,2024,54:44.0,obulesht@csa-india.org
+"""MP-2024-000438""",25-11-2024,December,TOB078,T Obulesu,2024,20:36.9,obulesht@csa-india.org
+"""MP-2024-000467""",26-12-2024,January,TOB078,T Obulesu,2024,35:19.0,obulesht@csa-india.org
+"""MP-2025-000017""",26-01-2025,February,TOB078,T Obulesu,2024,25:02.0,obulesht@csa-india.org
+"""MP-2025-000029""",27-02-2025,March,TOB078,T Obulesu,2025,56:03.8,obulesht@csa-india.org
+"""MP-2023-000007""",01-11-2023,November,TSA048,T Satyapal,2023,25:38.4,satyapal@csa-india.org
+"""MP-2023-000008""",02-11-2023,November,TSA048,T Satyapal,2023,29:24.6,satyapal@csa-india.org
+"""MP-2023-000027""",03-11-2023,November,TSA048,T Satyapal,2023,29:45.6,satyapal@csa-india.org
+"""MP-2023-000028""",06-11-2023,November,TSA048,T Satyapal,2023,38:57.2,satyapal@csa-india.org
+"""MP-2023-000029""",08-11-2023,November,TSA048,T Satyapal,2023,51:22.5,satyapal@csa-india.org
+"""MP-2023-000030""",13-11-2023,November,TSA048,T Satyapal,2023,57:18.2,satyapal@csa-india.org
+"""MP-2023-000081""",26-11-2023,December,TSA048,T Satyapal,2023,35:49.5,satyapal@csa-india.org
+"""MP-2023-000082""",26-11-2023,December,TSA048,T Satyapal,2023,06:20.5,satyapal@csa-india.org
+"""MP-2023-000083""",26-11-2023,December,TSA048,T Satyapal,2023,15:14.7,satyapal@csa-india.org
+"""MP-2023-000084""",26-11-2023,December,TSA048,T Satyapal,2023,18:54.7,satyapal@csa-india.org
+"""MP-2023-000172""",28-12-2023,January,TSA048,T Satyapal,2024,48:26.3,satyapal@csa-india.org
+"""MP-2024-000056""",31-01-2024,February,TSA048,T Satyapal,2024,05:49.5,satyapal@csa-india.org
+"""MP-2024-000132""",01-03-2024,March,TSA048,T Satyapal,2024,07:19.3,satyapal@csa-india.org
+"""MP-2024-000151""",27-04-2024,May,TSA048,T Satyapal,2024,59:26.4,satyapal@csa-india.org
+"""MP-2024-000237""",29-05-2024,June,TSA048,T Satyapal,2024,08:19.8,satyapal@csa-india.org
+"""MP-2024-000238""",29-05-2024,June,TSA048,T Satyapal,2024,26:48.8,satyapal@csa-india.org
+"""MP-2024-000339""",05-08-2024,August,TSA048,T Satyapal,2024,16:00.7,satyapal@csa-india.org
+"""MP-2024-000366""",31-08-2024,September,TSA048,T Satyapal,2024,28:12.3,satyapal@csa-india.org
+"""MP-2024-000396""",01-10-2024,October,TSA048,T Satyapal,2024,06:27.1,satyapal@csa-india.org
+"""MP-2023-000036""",01-11-2023,November,TSR012,T Srikanth,2023,20:24.9,thirumareddy@csa-india.org
+"""MP-2023-000042""",01-11-2023,November,TEJ058,Tejaswi Vemuri,2023,00:10.3,tejaswiv@csa-india.org
+"""MP-2023-000075""",05-11-2023,November,THI047,Thirupathi Reddy,2023,09:36.5,thirupathi@csa-india.org
+"""MP-2023-000155""",30-11-2023,December,THI047,Thirupathi Reddy,2023,51:28.8,thirupathi@csa-india.org
+"""MP-2024-000038""",31-12-2023,January,THI047,Thirupathi Reddy,2024,14:49.3,thirupathi@csa-india.org
+"""MP-2024-000131""",29-02-2024,March,THI047,Thirupathi Reddy,2024,05:40.1,thirupathi@csa-india.org
+"""MP-2024-000143""",31-03-2024,April,THI047,Thirupathi Reddy,2024,11:32.4,thirupathi@csa-india.org
+"""MP-2024-000247""",31-05-2024,June,THI047,Thirupathi Reddy,2024,27:22.5,thirupathi@csa-india.org
+"""MP-2024-000346""",01-08-2024,August,THI047,Thirupathi Reddy,2024,10:12.8,thirupathi@csa-india.org
+"""MP-2024-000347""",01-08-2024,August,THI047,Thirupathi Reddy,2024,34:24.0,thirupathi@csa-india.org
+"""MP-2024-000407""",01-10-2024,October,THI047,Thirupathi Reddy,2024,59:51.6,thirupathi@csa-india.org
+"""MP-2024-000434""",01-11-2024,November,THI047,Thirupathi Reddy,2024,22:15.9,thirupathi@csa-india.org
+"""MP-2023-000045""",02-11-2023,November,THO049,Thodeti Srishylam,2023,02:53.3,srishylam@csa-india.org
+"""MP-2023-000156""",01-12-2023,December,THO049,Thodeti Srishylam,2023,56:25.8,srishylam@csa-india.org
+"""MP-2024-000343""",31-08-2024,August,THO049,Thodeti Srishylam,2024,46:05.0,srishylam@csa-india.org
+"""MP-2024-000367""",30-09-2024,September,THO049,Thodeti Srishylam,2024,09:34.7,srishylam@csa-india.org
+"""MP-2023-000080""",04-11-2023,November,UDA027,Uday Kumar Nagubandi,2023,32:59.7,udayn@csa-india.org
+"""MP-2024-000035""",01-01-2024,January,UDA027,Uday Kumar Nagubandi,2024,34:18.7,udayn@csa-india.org
+"""MP-2024-000303""",01-07-2024,July,UDA027,Uday Kumar Nagubandi,2024,46:39.6,udayn@csa-india.org
+"""MP-2024-000337""",01-08-2024,August,UDA027,Uday Kumar Nagubandi,2024,57:02.2,udayn@csa-india.org
+"""MP-2024-000376""",01-09-2024,September,UDA027,Uday Kumar Nagubandi,2024,02:43.2,udayn@csa-india.org
+"""MP-2024-000404""",01-10-2024,October,UDA027,Uday Kumar Nagubandi,2024,07:11.4,udayn@csa-india.org
+"""MP-2025-000015""",04-01-2025,January,UDA027,Uday Kumar Nagubandi,2025,35:27.1,udayn@csa-india.org
+"""MP-2024-000399""",01-10-2024,October,UMA009,Umamahesh B,2024,59:48.2,umamahesh@csa-india.org
+"""MP-2024-000402""",01-10-2024,October,UMA009,Umamahesh B,2024,49:03.2,umamahesh@csa-india.org
+"""MP-2024-000418""",30-11-2024,November,UMA009,Umamahesh B,2024,11:46.1,umamahesh@csa-india.org
+"""MP-2024-000440""",28-11-2024,December,UMA009,Umamahesh B,2024,52:04.8,umamahesh@csa-india.org
+"""MP-2024-000471""",01-01-2025,January,UMA009,Umamahesh B,2025,21:38.2,umamahesh@csa-india.org
+"""MP-2025-000022""",02-02-2025,February,UMA009,Umamahesh B,2025,44:17.5,umamahesh@csa-india.org
+"""MP-2023-000043""",01-11-2023,November,VAN081,Vanamoju Anusha,2023,12:08.8,anushav@csa-india.org
+"""MP-2024-000049""",01-02-2024,February,VAN081,Vanamoju Anusha,2024,07:17.7,anushav@csa-india.org
+"""MP-2024-000105""",26-02-2024,March,VAN081,Vanamoju Anusha,2024,21:19.4,anushav@csa-india.org
+"""MP-2024-000189""",01-05-2024,May,VAN081,Vanamoju Anusha,2024,30:29.8,anushav@csa-india.org
+"""MP-2024-000328""",30-07-2024,August,VAN081,Vanamoju Anusha,2024,32:15.3,anushav@csa-india.org
+"""MP-2024-000344""",06-08-2024,August,VEE119,Veerababu K,2024,13:27.0,veerababu@csa-india.org
+"""MP-2023-000011""",30-10-2023,November,VEN089,Venkatarao Pasala,2023,05:08.6,srikanth@csa-india.org
+"""MP-2023-000073""",23-11-2023,November,VEN089,Venkatarao Pasala,2023,18:03.7,venkatarao@csa-india.org
+"""MP-2023-000114""",25-12-2023,December,VEN089,Venkatarao Pasala,2023,44:50.6,venkatarao@csa-india.org
+"""MP-2023-000191""",26-12-2023,January,VEN089,Venkatarao Pasala,2023,39:51.0,venkatarao@csa-india.org
+"""MP-2024-000029""",25-01-2024,January,VEN089,Venkatarao Pasala,2023,01:49.1,venkatarao@csa-india.org
+"""MP-2024-000060""",31-01-2024,February,VEN089,Venkatarao Pasala,2024,22:30.3,venkatarao@csa-india.org
+"""MP-2024-000093""",01-02-2024,February,VEN089,Venkatarao Pasala,2024,36:13.5,venkatarao@csa-india.org
+"""MP-2024-000185""",01-05-2024,May,VEN089,Venkatarao Pasala,2024,28:41.1,venkatarao@csa-india.org
+"""MP-2024-000194""",27-05-2024,June,VEN089,Venkatarao Pasala,2024,04:55.1,venkatarao@csa-india.org
+"""MP-2024-000287""",27-06-2024,July,VEN089,Venkatarao Pasala,2024,50:38.0,venkatarao@csa-india.org
+"""MP-2024-000309""",02-08-2024,August,VEN089,Venkatarao Pasala,2024,17:54.1,venkatarao@csa-india.org
+"""MP-2024-000377""",26-08-2024,September,VEN089,Venkatarao Pasala,2024,47:01.0,venkatarao@csa-india.org
+"""MP-2024-000461""",03-12-2024,December,VEN089,Venkatarao Pasala,2024,04:20.0,venkatarao@csa-india.org
+"""MP-2024-000462""",03-12-2024,December,VEN089,Venkatarao Pasala,2024,44:59.7,venkatarao@csa-india.org
+"""MP-2025-000003""",02-01-2025,January,VEN089,Venkatarao Pasala,2025,23:43.0,venkatarao@csa-india.org
+"""MP-2024-000351""",01-08-2024,August,VEN111,Venu Uradi,2024,21:23.8,venuu@csa-india.org
+"""MP-2024-000435""",04-11-2024,November,VEN111,Venu Uradi,2024,01:05.3,venuu@csa-india.org
+"""MP-2024-000460""",03-12-2024,December,VEN111,Venu Uradi,2024,06:01.0,venuu@csa-india.org
+"""MP-2023-000039""",01-11-2023,November,VIJ107,Vijaya Prasanti Sowrotu,2023,02:22.5,vijayaprasanti@csa-india.org
+"""MP-2024-000240""",31-05-2024,June,GSV006,Vinyasa G.S.V,2024,50:15.3,vinyasa@csa-india.org
+"""MP-2024-000424""",28-10-2024,November,GSV006,Vinyasa G.S.V,2024,01:34.0,vinyasa@csa-india.org
+"""MP-2023-000026""",31-10-2023,November,VOR113,VORUGANTI RAMMURTHY,2023,09:04.0,rammurthy@csa-india.org
+"""MP-2023-000120""",01-12-2023,December,VOR113,VORUGANTI RAMMURTHY,2023,13:48.5,rammurthy@csa-india.org
+"""MP-2024-000037""",01-01-2024,January,VOR113,VORUGANTI RAMMURTHY,2024,30:45.3,rammurthy@csa-india.org
+"""MP-2024-000071""",02-02-2024,February,VOR113,VORUGANTI RAMMURTHY,2024,51:14.9,rammurthy@csa-india.org
+"""MP-2024-000134""",01-03-2024,March,VOR113,VORUGANTI RAMMURTHY,2024,59:07.6,rammurthy@csa-india.org
+"""MP-2024-000145""",01-04-2024,April,VOR113,VORUGANTI RAMMURTHY,2024,33:11.5,rammurthy@csa-india.org
+"""MP-2024-000192""",01-05-2024,May,VOR113,VORUGANTI RAMMURTHY,2024,04:57.3,rammurthy@csa-india.org
+"""MP-2024-000248""",06-06-2024,June,VOR113,VORUGANTI RAMMURTHY,2024,28:07.1,rammurthy@csa-india.org
+"""MP-2024-000301""",01-07-2024,July,VOR113,VORUGANTI RAMMURTHY,2024,24:41.2,rammurthy@csa-india.org
+"""MP-2024-000341""",01-08-2024,August,VOR113,VORUGANTI RAMMURTHY,2024,29:25.7,rammurthy@csa-india.org
+"""MP-2024-000368""",01-09-2024,September,VOR113,VORUGANTI RAMMURTHY,2024,25:58.0,rammurthy@csa-india.org
+"""MP-2023-000003""",06-11-2023,November,YAD045,Yadava Reddy,2023,44:27.5,yadavareddy@csa-india.org
+"""MP-2023-000071""",02-11-2023,November,YAD045,Yadava Reddy,2023,22:54.2,yadavareddy@csa-india.org
+"""MP-2023-000169""",18-12-2023,December,YAD045,Yadava Reddy,2023,23:00.9,yadavareddy@csa-india.org
+"""MP-2024-000031""",01-01-2024,January,YAD045,Yadava Reddy,2024,50:22.1,yadavareddy@csa-india.org
+"""MP-2024-000032""",02-01-2024,January,YAD045,Yadava Reddy,2024,53:36.1,yadavareddy@csa-india.org
+"""MP-2024-000302""",09-07-2024,July,YAD045,Yadava Reddy,2024,23:09.3,yadavareddy@csa-india.org
+"""MP-2024-000348""",08-08-2024,August,YAD045,Yadava Reddy,2024,35:54.8,yadavareddy@csa-india.org
+"""MP-2024-000451""",02-12-2024,December,YAD045,Yadava Reddy,2024,23:23.6,yadavareddy@csa-india.org
+"""MP-2024-000452""",02-12-2024,December,YAD045,Yadava Reddy,2024,30:32.5,yadavareddy@csa-india.org
+"""MP-2025-000013""",03-01-2025,January,YAD045,Yadava Reddy,2025,34:14.2,yadavareddy@csa-india.org
+"""MP-2025-000025""",03-02-2025,February,YAD045,Yadava Reddy,2025,24:13.4,yadavareddy@csa-india.org
+"""MP-2025-000030""",01-03-2025,February,YAD045,Yadava Reddy,2025,33:31.8,yadavareddy@csa-india.org
+"""MP-2025-000031""",01-03-2025,March,YAD045,Yadava Reddy,2025,50:11.2,yadavareddy@csa-india.org
