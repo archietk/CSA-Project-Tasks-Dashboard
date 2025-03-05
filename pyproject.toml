@@ -1,16 +1,17 @@
-[tool.poetry]
-name = "csa_project_dashboard"
+[project]
+name = "csa-project-dashboard"
 version = "0.1.0"
 description = ""
-authors = ["Archiet Kannan <archietk@zohomail.in>"]
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
 readme = "README.md"
-packages = [{ include = "csa_project_dashboard" }]  # Ensure package directory is defined
-
 [tool.poetry.dependencies]
-python = ">=3.9,<3.9.7 || >3.9.7,<3.11"
-beautifulsoup4 = "^4.13.3"
-altair = "^5.4.0"
-streamlit = "^1.43.0"
+python = ">=3.9, !=3.9.7"  # 👈 Explicitly exclude 3.9.7
+streamlit = { version = "^1.43.0", python = ">=3.9, !=3.9.7" }
+pandas = "^2.0.0"
+beautifulsoup4 = { version = "^4.13.3", python = ">=3.9" }
+
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
